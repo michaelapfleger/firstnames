@@ -3,6 +3,9 @@ div.tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
+    margin: 20px auto auto auto;
+    width: 179px;
+    text-align: center;
 }
 
 /* Style the buttons inside the tab */
