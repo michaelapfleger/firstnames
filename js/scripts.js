@@ -79,4 +79,20 @@ $( document ).ready(function() {
     $('#next').click(function() {
         moveToSelected('next');
     });
+    $('#wikipedia').on('click',function () {
+        console.log('hier');
+
+        $.ajax({
+            url: 'https://de.wikipedia.org/wiki/Tamara',
+            type:'GET',
+            crossDomain: true,
+            success: function(data){
+                console.log($(data).find('h2:first').html());
+            }
+        });
+    });
+
+
+
+
 });
