@@ -1,0 +1,19 @@
+.tabcontent .infobox {
+    width: 500px;
+    border: 1px solid grey;
+    padding: 10px;
+}
+.infobox:hover {
+    cursor: pointer;
+}
+
+.infobox h3 {
+    display: inline-block;
+    float: left;
+}
+.infobox i {
+    float: right;
+}
+.infobox.open i {
+    transform: rotate(180deg);
+}
