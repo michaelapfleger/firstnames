@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>First Name Visualization</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/rangeslider.css">
+    <link rel="stylesheet" type="text/css" href="css/tabs.css">
 </head>
 <body>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -14,7 +16,27 @@
 <script src="js/scripts.js"></script>
 
 
-<input type="range">
+<div class="tab">
+    <button class="tablinks" id="tab-europe">EUROPE</button>
+    <button class="tablinks" id="tab-austria">AUSTRIA</button>
+</div>
+
+<div id="europe" class="tabcontent active">
+    <h3>Europe</h3>
+
+</div>
+
+<div id="austria" class="tabcontent">
+    <h3>Austria</h3>
+</div>
+
+<div id="slidecontainer">
+    <input type="range" min="1980" max="2017" value="2017" step="1" class="slider" id="myRange">
+
+
+    <!-- labels -->
+</div>
+
 
 
 </body>
