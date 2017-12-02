@@ -20,6 +20,10 @@ $( document ).ready(function() {
         $('#tab-austria').removeClass("active");
         $('#europe').addClass("active");
         $('#austria').removeClass("active");
+        $('#article').html("");
+        var wikipedia = $('#wikipedia');
+        wikipedia.addClass("closed");
+        wikipedia.removeClass("open");
     });
 
 
