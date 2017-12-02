@@ -62,7 +62,7 @@ $( document ).ready(function() {
         if (wikipedia.hasClass("closed")) {
             $.ajax({
                 type: "GET",
-                url: "http://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=Tamara&callback=?",
+                url: "https://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=Tamara&callback=?",
                 contentType: "application/json; charset=utf-8",
                 async: false,
                 dataType: "json",
