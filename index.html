@@ -8,11 +8,14 @@
     <link rel="stylesheet" type="text/css" href="css/rangeslider.css">
     <link rel="stylesheet" type="text/css" href="css/tabs.css">
     <link rel="stylesheet" type="text/css" href="css/carousel.css">
+    <link rel="stylesheet" type="text/css" href="css/barchart.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 
 <body>
     <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
     <script src="js/scripts.js"></script>
@@ -31,16 +34,10 @@
                 <img src="images/countries/france.png">
                 <div class="name-wrapper">
                     <div class="girls-left">
-                        1. Anna
-                        <br> 2. Sarah
-                        <br> 3. Laura
-                        <br>
+                        <svg class="girls"></svg>
                     </div>
                     <div class="boys-right">
-                        1. Lukas
-                        <br> 2. Alex
-                        <br> 3. Tobias
-                        <br>
+                        <svg class="boys"></svg>
                     </div>
                 </div>
             </div>
@@ -184,7 +181,7 @@
         <!-- labels -->
     </div>
 
-
+    <script src="js/barchart.js"></script>
 
 </body>
 

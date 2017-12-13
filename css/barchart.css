@@ -1,0 +1,16 @@
+.boys rect {
+    fill: steelblue;
+}
+.girls rect {
+    fill: pink;
+}
+.girls text {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
+.boys text {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: start;
+}
