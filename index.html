@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>First Name Visualization</title>
@@ -9,167 +10,182 @@
     <link rel="stylesheet" type="text/css" href="css/carousel.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
+
 <body>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
-<script src="js/scripts.js"></script>
+    <script src="js/scripts.js"></script>
 
 
-<div class="tab">
-    <button class="tablinks active" id="tab-europe">EUROPE</button>
-    <button class="tablinks" id="tab-austria">AUSTRIA</button>
-</div>
+    <div class="tab">
+        <button class="tablinks active" id="tab-europe">EUROPE</button>
+        <button class="tablinks" id="tab-austria">AUSTRIA</button>
+    </div>
 
-<div id="europe" class="tabcontent active">
-    <div id="carousel">
+    <div id="europe" class="tabcontent active">
+        <div id="carousel">
 
-        <div class="hideLeft">
-            <h2>France</h2>
-            <img src="https://s16.postimg.org/vklrwoxtx/cover9.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
-        </div>
-
-        <div class="prevLeftSecond">
-            <h2>Greece</h2>
-            <img src="https://s16.postimg.org/cgsggckzp/cover8.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
-        </div>
-
-        <div class="prev">
-            <h2>Italy</h2>
-            <img src="https://s16.postimg.org/emmrauog5/cover7.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
-        </div>
-
-        <div class="selected">
-            <h2>Germany</h2>
-            <img src="https://s16.postimg.org/9drqcz611/cover1.jpg">
-            <div class="name-wrapper">
-                <div class="girls-left">
-                    1. Anna<br>
-                    2. Sarah<br>
-                    3. Laura<br>
-                </div>
-                <div class="boys-right">
-                    1. Lukas<br>
-                    2. Alex<br>
-                    3. Tobias<br>
+            <div class="hideLeft">
+                <h2>France</h2>
+                <img src="images/countries/france.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
                 </div>
             </div>
+
+            <div class="prevLeftSecond">
+                <h2>Greece</h2>
+                <img src="images/countries/greece.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="prev">
+                <h2>Italy</h2>
+                <img src="images/countries/italy.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="selected">
+                <h2>Germany</h2>
+                <img src="images/countries/germany.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="next">
+                <h2>Spain</h2>
+                <img src="images/countries/spain.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="nextRightSecond">
+                <h2>Sweden</h2>
+                <img src="images/countries/sweden.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hideRight">
+                <h2>Belgium</h2>
+                <img src="images/countries/belgium.png">
+                <div class="name-wrapper">
+                    <div class="girls-left">
+                        1. Anna
+                        <br> 2. Sarah
+                        <br> 3. Laura
+                        <br>
+                    </div>
+                    <div class="boys-right">
+                        1. Lukas
+                        <br> 2. Alex
+                        <br> 3. Tobias
+                        <br>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
-        <div class="next">
-            <h2>Spain</h2>
-            <img src="https://s16.postimg.org/pnhwfvgp1/cover6.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
-        </div>
-
-        <div class="nextRightSecond">
-            <h2>Sweden</h2>
-            <img src="
-https://s16.postimg.org/edp6kxbnp/cover4.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
-        </div>
-
-        <div class="hideRight">
-            <h2>Belgium</h2>
-            <img src="https://s16.postimg.org/fij8qay4l/cover3.jpg">
-            <div class="name-wrapper">
-            <div class="girls-left">
-                1. Anna<br>
-                2. Sarah<br>
-                3. Laura<br>
-            </div>
-            <div class="boys-right">
-                1. Lukas<br>
-                2. Alex<br>
-                3. Tobias<br>
-            </div>
-            </div>
+        <div class="buttons">
+            <button id="prev"><i class="material-icons">arrow_back</i></button>
+            <button id="next"><i class="material-icons">arrow_forward</i></button>
         </div>
 
     </div>
 
-    <div class="buttons">
-        <button id="prev"><i class="material-icons">arrow_back</i></button>
-        <button id="next"><i class="material-icons">arrow_forward</i></button>
+    <div id="austria" class="tabcontent">
+        <h3>Austria</h3>
+        <div id="wikipedia" class="infobox closed">
+            <span>Tamara</span><i class="material-icons">keyboard_arrow_down</i>
+            <div id="article"></div>
+        </div>
+
     </div>
 
-</div>
+    <div id="slidecontainer">
+        <!--<input type="range" min="1980" max="2017" value="2017" step="1" class="slider" id="myRange">-->
 
-<div id="austria" class="tabcontent">
-    <h3>Austria</h3>
-    <div id="wikipedia" class="infobox closed">
-        <span>Tamara</span><i class="material-icons">keyboard_arrow_down</i>
-        <div id="article"></div>
+
+        <!-- labels -->
     </div>
-
-</div>
-
-<div id="slidecontainer">
-    <!--<input type="range" min="1980" max="2017" value="2017" step="1" class="slider" id="myRange">-->
-
-
-    <!-- labels -->
-</div>
 
 
 
 </body>
+
 </html>
