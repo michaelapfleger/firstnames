@@ -19,3 +19,49 @@ body {
 .infobox.open i {
     transform: rotate(180deg);
 }
+
+/*map*/
+
+#map-austria {
+    height: 500px;
+    min-width: 310px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+.highcharts-point {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    fill: #efefef;
+    cursor: pointer;
+}
+.highcharts-point:hover {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    fill: #00bda8;
+}
+.mapActive {
+    fill: #00bda8;
+}
+#map-austria svg.highcharts-root {
+    font-family: 'Titillium Web', sans-serif !important;
+}
+#map-austria svg.highcharts-root text {
+    font-size: 14px !important;
+}
+.highcharts-text-outline,
+.highcharts-contextbutton,
+.highcharts-legend,
+.highcharts-tooltip {
+    display: none;
+}

@@ -27,11 +27,11 @@ bar.append("rect")
 
 girls.selectAll("rect").append("animate")
     .attr("attributeName", "width")
-    .attr("from", function (d) {
+    .attr("to", function (d) {
         return x(d);
     })
-    .attr("to", 0)
-    .attr("dur", "1s")
+    .attr("from", 0)
+    .attr("dur", "5s")
     .attr("fill", "freeze");
 
 bar.append("text")
