@@ -17,6 +17,7 @@ main {
     position: absolute;
     transition: transform 1s, left 1s, opacity 1s, z-index 0s;
     opacity: 1;
+    background: white;
 }
 #carousel div img {
     width: 400px;
