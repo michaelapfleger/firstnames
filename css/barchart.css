@@ -6,11 +6,11 @@
 }
 .girls text {
     fill: white;
-    font: 10px sans-serif;
+    font: 14px;
     text-anchor: end;
 }
 .boys text {
     fill: white;
-    font: 10px sans-serif;
+    font: 14px;
     text-anchor: start;
 }

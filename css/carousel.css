@@ -8,9 +8,9 @@ main {
 }
 #carousel {
     position: relative;
-    height: 550px;
+    height: 650px;
     top: 270px;
-    transform: translateY(-50%);
+    transform: translateY(-40%);
     overflow: hidden;
 }
 #carousel div {
@@ -98,11 +98,23 @@ button:hover {
 #carousel h2 {
     text-align: center;
     opacity: 0;
+    -webkit-transition: opacity 1.5s ease-in-out;
+    -moz-transition: opacity 1.5s ease-in-out;
+    -ms-transition: opacity 1.5s ease-in-out;
+    -o-transition: opacity 1.5s ease-in-out;
+    transition: opacity 1.5s ease-in-out;
 }
 #carousel .name-wrapper {
     width: 100%;
-    margin-top: 10px;
-    display: none;
+    margin-top: 20px;
+    display: block;
+    /*display: none;*/
+    opacity: 0;
+    -webkit-transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -ms-transition: opacity .5s ease-in-out;
+    -o-transition: opacity .5s ease-in-out;
+    transition: opacity .5s ease-in-out;
 }
 #carousel .boys-right,
 .girls-left {
@@ -118,8 +130,19 @@ button:hover {
     margin-right: 5px;
 }
 #carousel .selected .name-wrapper {
-    display: block;
+    /*display: block;*/
+    opacity: 1;
+    -webkit-transition: opacity 1.5s ease-in-out;
+    -moz-transition: opacity 1.5s ease-in-out;
+    -ms-transition: opacity 1.5s ease-in-out;
+    -o-transition: opacity 1.5s ease-in-out;
+    transition: opacity 1.5s ease-in-out;
 }
 #carousel .selected h2 {
     opacity: 1;
+    -webkit-transition: opacity 1.5s ease-in-out;
+    -moz-transition: opacity 1.5s ease-in-out;
+    -ms-transition: opacity 1.5s ease-in-out;
+    -o-transition: opacity 1.5s ease-in-out;
+    transition: opacity 1.5s ease-in-out;
 }

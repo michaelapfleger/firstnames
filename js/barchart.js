@@ -1,14 +1,14 @@
 //girls
-var data = [4, 16, 23, 42];
+var data = [42, 38, 27, 22];
 var values = ["Hanna", "Anna", "Julia", "Sophie"];
 
 
 var width = 200,
-    barHeight = 20;
+    barHeight = 30;
 
 var x = d3.scale.linear()
     .domain([0, d3.max(data)])
-    .range([0, width]);
+    .range([0, 150]);
 
 var girls = d3.select(".girls")
     .attr("width", width)
@@ -25,6 +25,15 @@ bar.append("rect")
     .attr("width", x)
     .attr("height", barHeight - 1);
 
+girls.selectAll("rect").append("animate")
+    .attr("attributeName", "width")
+    .attr("from", function (d) {
+        return x(d);
+    })
+    .attr("to", 0)
+    .attr("dur", "1s")
+    .attr("fill", "freeze");
+
 bar.append("text")
     .attr("x", function (d) {
         return x(d) - 5;
@@ -36,7 +45,7 @@ bar.append("text")
     });
 
 //boys
-var data = [8, 15, 23, 33];
+var data = [55, 47, 35, 24];
 var values = ["Lukas", "Tim", "Fin", "Felix"];
 
 var boys = d3.select(".boys")
@@ -53,6 +62,15 @@ var bar = boys.selectAll("g")
 bar.append("rect")
     .attr("width", x)
     .attr("height", barHeight - 1);
+
+boys.selectAll("rect").append("animate")
+    .attr("attributeName", "width")
+    .attr("from", "0")
+    .attr("to", function (d) {
+        return x(d);
+    })
+    .attr("dur", "1s")
+    .attr("fill", "freeze");
 
 bar.append("text")
     /*.attr("x", function(d) {

@@ -1,5 +1,5 @@
-$( document ).ready(function() {
-    console.log( "ready!" );
+$(document).ready(function () {
+    console.log("ready!");
     // var slider = document.getElementById("myRange");
     // var output = document.getElementById("demo");
 
@@ -8,14 +8,14 @@ $( document ).ready(function() {
     //    console.log(this.value);
     // };
 
-    $('#tab-austria').on("click",function () {
+    $('#tab-austria').on("click", function () {
         $('#tab-europe').removeClass("active");
         $('#tab-austria').addClass("active");
         $('#austria').addClass("active");
         $('#europe').removeClass("active");
     });
 
-    $('#tab-europe').on("click",function () {
+    $('#tab-europe').on("click", function () {
         $('#tab-europe').addClass("active");
         $('#tab-austria').removeClass("active");
         $('#europe').addClass("active");
@@ -29,7 +29,7 @@ $( document ).ready(function() {
 
 
     // Eventos teclado
-    $(document).keydown(function(e) {
+    $(document).keydown(function (e) {
         switch (e.which) {
             case 37: // left
                 moveToSelected('prev');
@@ -45,18 +45,18 @@ $( document ).ready(function() {
         e.preventDefault();
     });
 
-    $('#carousel div').click(function() {
+    $('#carousel div.item').click(function () {
         moveToSelected($(this));
     });
 
-    $('#prev').click(function() {
+    $('#prev').click(function () {
         moveToSelected('prev');
     });
 
-    $('#next').click(function() {
+    $('#next').click(function () {
         moveToSelected('next');
     });
-    $('#wikipedia').on('click',function () {
+    $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
         var article = $('#article');
         if (wikipedia.hasClass("closed")) {
@@ -88,8 +88,7 @@ $( document ).ready(function() {
 
 
                 },
-                error: function (errorMessage) {
-                }
+                error: function (errorMessage) {}
             });
         } else {
             wikipedia.addClass("closed");
