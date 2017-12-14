@@ -56,13 +56,17 @@ $(document).ready(function () {
     $('#next').click(function () {
         moveToSelected('next');
     });
+
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
         var article = $('#article');
+        console.log('clicki');
+        console.log('name :', getCurrentName());
+        var name = getCurrentName();
         if (wikipedia.hasClass("closed")) {
             $.ajax({
                 type: "GET",
-                url: "https://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=Tamara&callback=?",
+                url: "https://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=" + name + "&callback=?",
                 contentType: "application/json; charset=utf-8",
                 async: false,
                 dataType: "json",

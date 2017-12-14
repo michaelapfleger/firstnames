@@ -1,4 +1,9 @@
 var svg = d3.select('svg.bubbles');
+var currentName = 'Tamara';
+
+let getCurrentName = function () {
+    return currentName;
+}
 
 
 var width = +svg.attr("width");
@@ -72,6 +77,7 @@ d3.csv('../csv/Firstnames.csv', function (error, data) {
             toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
                 .style('left', (d.x) + 'px')
                 .style('top', (d.y + d.r) + 'px');
+            currentName = d.name;
         })
         .on('mouseout', function (d) {
             toolTip.transition().duration(200).style('opacity', 0);
