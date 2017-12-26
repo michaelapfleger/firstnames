@@ -1,0 +1,1242 @@
+[
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 10722,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0141,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 9809,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0129,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 9581,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0126,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 9049,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0119,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Adam",
+   "BIRTHS": 8669,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0114,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 8289,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0109,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Léo",
+   "BIRTHS": 8213,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0108,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Raphael",
+   "BIRTHS": 7984,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0105,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 7908,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0104,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 7376,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0097,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 9125,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.012,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 8821,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0116,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Jade",
+   "BIRTHS": 8593,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0113,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chloé",
+   "BIRTHS": 7224,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0095,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 7072,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0093,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 6692,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0088,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lina",
+   "BIRTHS": 6388,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0084,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Léa",
+   "BIRTHS": 6235,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0082,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 6159,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0081,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 6083,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.008,
+   "TOTAL_BIRTH": 760421
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 10468,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0134,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 10233,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0131,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 9530,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0122,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 9374,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.012,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 8905,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0114,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Adam",
+   "BIRTHS": 8671,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0111,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 8358,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0107,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Léo",
+   "BIRTHS": 8280,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0106,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 7968,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0102,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nolan",
+   "BIRTHS": 7734,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0099,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Jade",
+   "BIRTHS": 9374,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.012,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 9296,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0119,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 8983,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0115,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chloé",
+   "BIRTHS": 7734,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0099,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 7655,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0098,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Léa",
+   "BIRTHS": 7109,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0091,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 7031,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.009,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lina",
+   "BIRTHS": 6718,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0086,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 6484,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0083,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 6406,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0082,
+   "TOTAL_BIRTH": 781167
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 10786,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0138,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 10317,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0132,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 10083,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0129,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 9927,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0127,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 9067,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0116,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 8989,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0115,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Léo",
+   "BIRTHS": 8676,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0111,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Adam",
+   "BIRTHS": 8363,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0107,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 8207,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0105,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nolan",
+   "BIRTHS": 8129,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0104,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 9614,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0123,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 8989,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0115,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chloé",
+   "BIRTHS": 8676,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0111,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Jade",
+   "BIRTHS": 8442,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0108,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 7973,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0102,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Léa",
+   "BIRTHS": 7973,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0102,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 7504,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0096,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 6878,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0088,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Inès",
+   "BIRTHS": 6722,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0086,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lina",
+   "BIRTHS": 6644,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0085,
+   "TOTAL_BIRTH": 781621
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 10906,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0138,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 10353,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0131,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 9642,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0122,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 9563,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0121,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 9167,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0116,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 8930,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0113,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Enzo",
+   "BIRTHS": 8930,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0113,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 8219,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0104,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Léo",
+   "BIRTHS": 7903,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.01,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Adam",
+   "BIRTHS": 7903,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.01,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 10353,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0131,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 8930,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0113,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 8693,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.011,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Jade",
+   "BIRTHS": 8298,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0105,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chloé",
+   "BIRTHS": 8298,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0105,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 8061,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0102,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Léa",
+   "BIRTHS": 7508,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0095,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 7429,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0094,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lina",
+   "BIRTHS": 6955,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0088,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sarah",
+   "BIRTHS": 6638,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0084,
+   "TOTAL_BIRTH": 790290
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 11657,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0147,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 11419,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0144,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Enzo",
+   "BIRTHS": 10309,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.013,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 9278,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0117,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 8882,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0112,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 8564,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0108,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 8326,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0105,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Arthur",
+   "BIRTHS": 8168,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0103,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 7613,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0096,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Tom",
+   "BIRTHS": 7375,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0093,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 11816,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0149,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 9675,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0122,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Jade",
+   "BIRTHS": 9278,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0117,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 8802,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0111,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 7771,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0098,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 7771,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0098,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sarah",
+   "BIRTHS": 7216,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0091,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lilou",
+   "BIRTHS": 6899,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0087,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lina",
+   "BIRTHS": 6661,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0084,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chloé",
+   "BIRTHS": 6265,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0079,
+   "TOTAL_BIRTH": 792996
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Nathan",
+   "BIRTHS": 13397,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0167,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lucas",
+   "BIRTHS": 13156,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.016399999999999998,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Enzo",
+   "BIRTHS": 11311,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0141,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Louis",
+   "BIRTHS": 9145,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.011399999999999999,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Hugo",
+   "BIRTHS": 8905,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0111,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriel",
+   "BIRTHS": 8584,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.010700000000000001,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Ethan",
+   "BIRTHS": 8504,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0106,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mathis",
+   "BIRTHS": 8263,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0103,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Jules",
+   "BIRTHS": 8183,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0102,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Arthur",
+   "BIRTHS": 7942,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0099,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 12755,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0159,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Manon",
+   "BIRTHS": 10108,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0126,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lola",
+   "BIRTHS": 9787,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.012199999999999999,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lade",
+   "BIRTHS": 9707,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0121,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Camille",
+   "BIRTHS": 8263,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0103,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sarah",
+   "BIRTHS": 8263,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0103,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Louise",
+   "BIRTHS": 7862,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0098,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Lilou",
+   "BIRTHS": 7621,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0095,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Léa",
+   "BIRTHS": 6819,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0085,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Clara",
+   "BIRTHS": 6658,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0083,
+   "TOTAL_BIRTH": 802224
+ },
+ {
+   "RANK": "",
+   "GENDER": "",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "",
+   "GENDER": "",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "Quellen:",
+   "GENDER": "https://www.behindthename.com/top/lists/france/2015",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "",
+   "GENDER": "https://www.statista.com/statistics/464122/number-births-france/",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ }
+]

@@ -3,8 +3,6 @@ function renderBarChart(country, year) {
     d3.select("#" + country + " svg.girls").selectAll("g").remove();
     d3.select("#" + country + " svg.boys").selectAll("g").remove();
 
-    console.log("hier");
-
     //girls
     var amountDisplayed = 4;
 
@@ -27,8 +25,6 @@ function renderBarChart(country, year) {
                 counter++;
             }
         })
-        console.log("old: ", data);
-        console.log("new:", newData);
 
         var x = d3.scale.linear()
             .domain([0, d3.max(newData, function (d) {

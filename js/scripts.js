@@ -60,6 +60,12 @@ $(document).ready(function () {
         moveToSelected('next');
     });
 
+    $('#myRange').on('input', function () {
+        year = this.value;
+        console.log("jahr", year);
+        renderBarChart(country, year);
+    });
+
     renderBarChart(country, year);
 
     $('#wikipedia').on('click', function () {
@@ -138,6 +144,7 @@ function moveToSelected(element) {
 
     // rerender bar chart for each country
     console.log("now selected", $(element)[0].id);
+    console.log("year selected", year);
     country = $(element)[0].id;
     renderBarChart(country, year);
 }
