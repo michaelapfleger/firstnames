@@ -22,17 +22,11 @@ var bar = girls.selectAll("g")
     });
 
 bar.append("rect")
+    .attr("height", barHeight - 1)
+    .attr("x", x)
+    .transition().duration(5000)
     .attr("width", x)
-    .attr("height", barHeight - 1);
-
-girls.selectAll("rect").append("animate")
-    .attr("attributeName", "width")
-    .attr("to", function (d) {
-        return x(d);
-    })
-    .attr("from", 0)
-    .attr("dur", "5s")
-    .attr("fill", "freeze");
+    .attr("x", 0);
 
 bar.append("text")
     .attr("x", function (d) {
@@ -60,17 +54,11 @@ var bar = boys.selectAll("g")
     });
 
 bar.append("rect")
+    .attr("height", barHeight - 1)
+    .attr("x", x)
+    .transition().duration(5000)
     .attr("width", x)
-    .attr("height", barHeight - 1);
-
-boys.selectAll("rect").append("animate")
-    .attr("attributeName", "width")
-    .attr("from", "0")
-    .attr("to", function (d) {
-        return x(d);
-    })
-    .attr("dur", "1s")
-    .attr("fill", "freeze");
+    .attr("x", x + x);
 
 bar.append("text")
     /*.attr("x", function(d) {

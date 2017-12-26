@@ -72,6 +72,15 @@ d3.csv('../csv/Firstnames.csv', function (error, data) {
             }
         });
 
+    svg.selectAll('circle').append("animate")
+        .attr("attributeName", "r")
+        .attr("from", "0")
+        .attr("to", function (d) {
+            return d.value / 1.8;
+        })
+        .attr("dur", "5s")
+        .attr("fill", "freeze");
+
     node.on('mouseover', function (d) {
             toolTip.transition().duration(200).style('opacity', 1);
             toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
