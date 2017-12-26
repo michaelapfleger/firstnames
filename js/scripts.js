@@ -14,7 +14,7 @@ $(document).ready(function () {
     $('#tab-austria').on("click", function () {
         $('#tab-europe').removeClass("active");
         $('#tab-austria').addClass("active");
-        $('#austria').addClass("active");
+        $('#austrianTab').addClass("active");
         $('#europe').removeClass("active");
     });
 
@@ -22,7 +22,7 @@ $(document).ready(function () {
         $('#tab-europe').addClass("active");
         $('#tab-austria').removeClass("active");
         $('#europe').addClass("active");
-        $('#austria').removeClass("active");
+        $('#austrianTab').removeClass("active");
         $('#article').html("");
         var wikipedia = $('#wikipedia');
         wikipedia.addClass("closed");
