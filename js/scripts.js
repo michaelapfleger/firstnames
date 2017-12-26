@@ -1,3 +1,6 @@
+let country = "italy";
+let year = "2015";
+
 $(document).ready(function () {
     console.log("ready!");
     // var slider = document.getElementById("myRange");
@@ -56,6 +59,8 @@ $(document).ready(function () {
     $('#next').click(function () {
         moveToSelected('next');
     });
+
+    renderBarChart(country, year);
 
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
@@ -131,4 +136,8 @@ function moveToSelected(element) {
     $(nextSecond).nextAll().removeClass().addClass('hideRight');
     $(prevSecond).prevAll().removeClass().addClass('hideLeft');
 
+    // rerender bar chart for each country
+    console.log("now selected", $(element)[0].id);
+    country = $(element)[0].id;
+    renderBarChart(country, year);
 }

@@ -1,0 +1,1242 @@
+[
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 17245,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0355,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 13165,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0271,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 12582,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0259,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 12582,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0259,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 12096,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0249,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 11902,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0245,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 10736,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0221,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 9716,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.02,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Tommaso",
+   "BIRTHS": 8647,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0178,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 8550,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0176,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 14962,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0308,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 13942,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0287,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 12970,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0267,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 8550,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0176,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 8015,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0165,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 7821,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0161,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 7675,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0158,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Greta",
+   "BIRTHS": 7675,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0158,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 7335,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0151,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Anna",
+   "BIRTHS": 6947,
+   "YEAR": 2015,
+   "DEFINITION": "",
+   "PCT": 0.0143,
+   "TOTAL_BIRTH": 485780
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 20355,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0405,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 13721,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0273,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 13168,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0262,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 12364,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0246,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 12012,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0239,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 12012,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0239,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 11359,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0226,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 10957,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0218,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 8946,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0178,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Tommaso",
+   "BIRTHS": 8846,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0176,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 15379,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0306,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 14073,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.028,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 11962,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0238,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 9449,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0188,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 8946,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0178,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 8293,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0165,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Greta",
+   "BIRTHS": 8243,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0164,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 8192,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0163,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sarah",
+   "BIRTHS": 7891,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.0157,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alica",
+   "BIRTHS": 7539,
+   "YEAR": 2014,
+   "DEFINITION": "",
+   "PCT": 0.015,
+   "TOTAL_BIRTH": 502596
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 21189,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0412,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 14555,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0283,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 13629,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0265,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 13578,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0264,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 12652,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0246,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 11932,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0232,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 11675,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0227,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 11058,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0215,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 9515,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0185,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Tommaso",
+   "BIRTHS": 8435,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0164,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 16972,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.033,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 15532,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0302,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 10132,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0197,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 9618,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0187,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 9618,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0187,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 9515,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0185,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 8280,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0161,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sara",
+   "BIRTHS": 8280,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0161,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 7766,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0151,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Gaia",
+   "BIRTHS": 7663,
+   "YEAR": 2013,
+   "DEFINITION": "",
+   "PCT": 0.0149,
+   "TOTAL_BIRTH": 514308
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 15865,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0297,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 15758,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0295,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 15278,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0286,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 14476,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0271,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 13461,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0252,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 13194,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0247,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 12393,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0232,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 10844,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0203,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 10096,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0189,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Davide",
+   "BIRTHS": 9188,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0172,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 17414,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0326,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 17254,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0323,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 11218,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.021,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 10844,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0203,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 10470,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0196,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 10256,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0192,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sara",
+   "BIRTHS": 9402,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0176,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 9348,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0175,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Gaia",
+   "BIRTHS": 8867,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0166,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 8120,
+   "YEAR": 2012,
+   "DEFINITION": "",
+   "PCT": 0.0152,
+   "TOTAL_BIRTH": 534186
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 17053,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0312,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 16179,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0296,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 16124,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0295,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 15523,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0284,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 14594,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0267,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 12899,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0236,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 12790,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0234,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 11424,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0209,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Davide",
+   "BIRTHS": 10057,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0184,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 9948,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0182,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 18092,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0331,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 17655,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0323,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 12080,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0221,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 11096,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0203,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sara",
+   "BIRTHS": 10549,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0193,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 10112,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0185,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 10003,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0183,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 9019,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0165,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 8909,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0163,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alessia",
+   "BIRTHS": 8089,
+   "YEAR": 2011,
+   "DEFINITION": "",
+   "PCT": 0.0148,
+   "TOTAL_BIRTH": 546585
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Francesco",
+   "BIRTHS": 17757,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0316,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Alessandro",
+   "BIRTHS": 16802,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0299,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Andrea",
+   "BIRTHS": 15959,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0284,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Lorenzo",
+   "BIRTHS": 15397,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0274,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Matteo",
+   "BIRTHS": 14442,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0257,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Mattia",
+   "BIRTHS": 13374,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0238,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Gabriele",
+   "BIRTHS": 13318,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0237,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Riccardo",
+   "BIRTHS": 10789,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0192,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Davide",
+   "BIRTHS": 10452,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0186,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "m",
+   "NAME": "Leonardo",
+   "BIRTHS": 10340,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0184,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sofia",
+   "BIRTHS": 18769,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0334,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giulia",
+   "BIRTHS": 17982,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.032,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Sara",
+   "BIRTHS": 12869,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0229,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Martina",
+   "BIRTHS": 12588,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0224,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Giorgia",
+   "BIRTHS": 12082,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0215,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Chiara",
+   "BIRTHS": 10508,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0187,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Aurora",
+   "BIRTHS": 10452,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0186,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alice",
+   "BIRTHS": 9160,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0163,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Emma",
+   "BIRTHS": 8766,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0156,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "w",
+   "NAME": "Alessia",
+   "BIRTHS": 8654,
+   "YEAR": 2010,
+   "DEFINITION": "",
+   "PCT": 0.0154,
+   "TOTAL_BIRTH": 561944
+ },
+ {
+   "RANK": "",
+   "GENDER": "",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "",
+   "GENDER": "",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "Quellen:",
+   "GENDER": "https://www.behindthename.com/top/lists/italy/",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ },
+ {
+   "RANK": "",
+   "GENDER": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&plugin=1&language=en&pcode=tps00111",
+   "NAME": "",
+   "BIRTHS": null,
+   "YEAR": null,
+   "DEFINITION": "",
+   "PCT": null,
+   "TOTAL_BIRTH": null
+ }
+]
