@@ -62,7 +62,6 @@ $(document).ready(function () {
 
     $('#myRange').on('input', function () {
         year = this.value;
-        console.log("jahr", year);
         renderBarChart(country, year);
     });
 
@@ -143,8 +142,6 @@ function moveToSelected(element) {
     $(prevSecond).prevAll().removeClass().addClass('hideLeft');
 
     // rerender bar chart for each country
-    console.log("now selected", $(element)[0].id);
-    console.log("year selected", year);
     country = $(element)[0].id;
     renderBarChart(country, year);
 }
