@@ -55,10 +55,10 @@ var bar = boys.selectAll("g")
 
 bar.append("rect")
     .attr("height", barHeight - 1)
-    .attr("x", x)
+    .attr("length", x)
     .transition().duration(5000)
     .attr("width", x)
-    .attr("x", x + x);
+    .attr("length", x + x);
 
 bar.append("text")
     /*.attr("x", function(d) {
