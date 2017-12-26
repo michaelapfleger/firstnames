@@ -1,5 +1,5 @@
-let country = "italy";
-let year = "2015";
+let country = "austria";
+let year = "2010";
 
 $(document).ready(function () {
     console.log("ready!");
