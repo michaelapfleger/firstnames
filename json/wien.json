@@ -1,0 +1,122 @@
+[
+ {
+   "NAME": "Anna",
+   "GENDER": " w",
+   "COUNT": 240
+ },
+ {
+   "NAME": "Sarah",
+   "GENDER": " w",
+   "COUNT": 120
+ },
+ {
+   "NAME": "Julia",
+   "GENDER": " w",
+   "COUNT": 95
+ },
+ {
+   "NAME": "Hannah",
+   "GENDER": " w",
+   "COUNT": 64
+ },
+ {
+   "NAME": "Laura",
+   "GENDER": " w",
+   "COUNT": 53
+ },
+ {
+   "NAME": "Leonie",
+   "GENDER": " w",
+   "COUNT": 42
+ },
+ {
+   "NAME": "Katharina",
+   "GENDER": " w",
+   "COUNT": 35
+ },
+ {
+   "NAME": "Lena",
+   "GENDER": " w",
+   "COUNT": 30
+ },
+ {
+   "NAME": "Sopie",
+   "GENDER": " w",
+   "COUNT": 27
+ },
+ {
+   "NAME": "Magdalena",
+   "GENDER": " w",
+   "COUNT": 18
+ },
+ {
+   "NAME": "Marie",
+   "GENDER": " w",
+   "COUNT": 10
+ },
+ {
+   "NAME": "Johanna",
+   "GENDER": " w",
+   "COUNT": 7
+ },
+ {
+   "NAME": "Lukas",
+   "GENDER": " m",
+   "COUNT": 77
+ },
+ {
+   "NAME": "David",
+   "GENDER": " m",
+   "COUNT": 65
+ },
+ {
+   "NAME": "Simon",
+   "GENDER": " m",
+   "COUNT": 63
+ },
+ {
+   "NAME": "Tobias",
+   "GENDER": " m ",
+   "COUNT": 62
+ },
+ {
+   "NAME": "Luka",
+   "GENDER": " m",
+   "COUNT": 58
+ },
+ {
+   "NAME": "Jakob",
+   "GENDER": " m",
+   "COUNT": 57
+ },
+ {
+   "NAME": "Alexander",
+   "GENDER": " m",
+   "COUNT": 51
+ },
+ {
+   "NAME": "Maximilian",
+   "GENDER": " m",
+   "COUNT": 50
+ },
+ {
+   "NAME": "Sebastian",
+   "GENDER": " m",
+   "COUNT": 30
+ },
+ {
+   "NAME": "Felix",
+   "GENDER": " m",
+   "COUNT": 20
+ },
+ {
+   "NAME": "Julian",
+   "GENDER": " m",
+   "COUNT": 12
+ },
+ {
+   "NAME": "Jonas",
+   "GENDER": " m",
+   "COUNT": 4
+ }
+]

@@ -1,5 +1,6 @@
 let country = "austria";
 let year = "2010";
+let land = "oberösterreich";
 
 $(document).ready(function () {
     console.log("ready!");
@@ -16,6 +17,7 @@ $(document).ready(function () {
         $('#tab-austria').addClass("active");
         $('#austrianTab').addClass("active");
         $('#europe').removeClass("active");
+        createBubbles(land);
     });
 
     $('#tab-europe').on("click", function () {

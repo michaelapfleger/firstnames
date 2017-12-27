@@ -46,8 +46,7 @@ Highcharts.mapChart('map-austria', {
     }]
 });
 
-//current activated state in the map
-let currentState = ''
+
 
 $('.highcharts-point').click(function (event) {
     //remove active class form all states
@@ -59,7 +58,7 @@ $('.highcharts-point').click(function (event) {
     let n = classnames.search("highcharts-name-");
     let start = n + 16;
     let end = classnames.search("highcharts-key");
-    currentState = classnames.substring(start, end);
-
-    console.log('current State: ', currentState);
+    land = classnames.substring(start, end - 1);
+    createBubbles(land);
+    console.log('current State: ', land);
 })
