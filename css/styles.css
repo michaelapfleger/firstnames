@@ -20,6 +20,12 @@ body {
     transform: rotate(180deg);
 }
 
+/*bubble*/
+
+circle {
+    cursor: pointer;
+}
+
 /*map*/
 
 #map-austria {

@@ -81,12 +81,14 @@ d3.csv('../csv/Firstnames.csv', function (error, data) {
         .attr("dur", "5s")
         .attr("fill", "freeze");
 
-    node.on('mouseover', function (d) {
+    node.on('click', function (d) {
             toolTip.transition().duration(200).style('opacity', 1);
             toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
                 .style('left', (d.x) + 'px')
                 .style('top', (d.y + d.r) + 'px');
             currentName = d.name;
+            $('#name-span').html(currentName);
+            console.log(currentName);
         })
         .on('mouseout', function (d) {
             toolTip.transition().duration(200).style('opacity', 0);
