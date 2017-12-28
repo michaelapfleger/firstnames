@@ -78,9 +78,11 @@
                 <div class="name-wrapper">
                     <div class="girls-left">
                         <svg class="girls"></svg>
+                        <span class="no-data"></span>
                     </div>
                     <div class="boys-right">
                         <svg class="boys"></svg>
+                        <span class="no-data"></span>
                     </div>
                 </div>
             </div>
@@ -155,11 +157,15 @@
 
     </div>
 
-    <div id="slidecontainer">
-        <input type="range" min="1980" max="2017" value="2017" step="1" class="slider" id="myRange">
+    <!-- <div id="slidecontainer">
+        <input type="range" min="1980" max="2017" value="2010" step="1" class="slider" id="myRange">
+        <span id="range-slider">Year</span>
+        
+    </div> -->
 
-
-        <!-- labels -->
+    <div class="range-slider">
+        <input class="range-slider__range" type="range" value="2010" min="1980" max="2017" id="myRange">
+        <span id="range-slider">0</span>
     </div>
 
     <script src="js/barchart.js"></script>

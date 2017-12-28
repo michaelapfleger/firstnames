@@ -65,9 +65,11 @@ $(document).ready(function () {
     $('#myRange').on('input', function () {
         year = this.value;
         renderBarChart(country, year);
+        $('#range-slider').html(year);
     });
 
     renderBarChart(country, year);
+    $('#range-slider').html(year);
 
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');

@@ -34,6 +34,15 @@ function renderBarChart(country, year) {
                 boysCounter++;
             }
         })
+        if (jQuery.isEmptyObject(girlsData)) {
+            console.log("no data available");
+            $('#' + country + ' .girls~.no-data').html("No data for girls available now!");
+        }
+        if (jQuery.isEmptyObject(boysData)) {
+            console.log("no data available");
+            $('#' + country + ' .boys~.no-data').html("No data for boys available now!");
+
+        }
 
         //scale the given data 
         var x = d3.scale.linear()
