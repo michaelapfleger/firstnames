@@ -37,11 +37,15 @@ function renderBarChart(country, year) {
         if (jQuery.isEmptyObject(girlsData)) {
             console.log("no data available");
             $('#' + country + ' .girls~.no-data').html("No data for girls available now!");
+        } else {
+            $('#' + country + ' .girls~.no-data').html("");
         }
         if (jQuery.isEmptyObject(boysData)) {
             console.log("no data available");
             $('#' + country + ' .boys~.no-data').html("No data for boys available now!");
 
+        } else {
+            $('#' + country + ' .boys~.no-data').html("");
         }
 
         //scale the given data 
