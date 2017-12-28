@@ -64,9 +64,7 @@ function createBubbles(land) {
             .attr('gender', function (d) {
                 return d.gender;
             })
-            .attr('r', function (d) {
-                return d.value;
-            })
+            .attr('r', 0)
             .attr('fill', function (d) {
                 if (d.gender == ' m') {
                     return blues(d.value);
@@ -74,16 +72,20 @@ function createBubbles(land) {
                     return reds(d.value);
 
                 }
+            })
+            .transition().duration(2000)
+            .attr('r', function (d) {
+                return d.value;
             });
 
-        svg.selectAll('circle').append("animate")
+        /*svg.selectAll('circle').append("animate")
             .attr("attributeName", "r")
             .attr("from", "0")
             .attr("to", function (d) {
                 return d.value / 1.8;
             })
             .attr("dur", "5s")
-            .attr("fill", "freeze");
+            .attr("fill", "freeze");*/
 
         node.on('click', function (d) {
                 toolTip.transition().duration(200).style('opacity', 1);
@@ -92,7 +94,6 @@ function createBubbles(land) {
                     .style('top', (d.y + d.r) + 'px');
                 currentName = d.name;
                 $('#name-span').html(currentName);
-                console.log(currentName);
             })
             .on('mouseout', function (d) {
                 toolTip.transition().duration(200).style('opacity', 0);
