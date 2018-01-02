@@ -1,1032 +1,5402 @@
 [
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lukas",
-   "BIRTHS": 1929,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0236,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Maximilian",
-   "BIRTHS": 1929,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0236,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jakob",
-   "BIRTHS": 1831,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0224,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 1831,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0224,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tobias",
-   "BIRTHS": 1716,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.021,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Paul",
-   "BIRTHS": 1683,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0206,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jonas",
-   "BIRTHS": 1659,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0203,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Felix",
-   "BIRTHS": 1602,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0196,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Alexander",
-   "BIRTHS": 1545,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0189,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 1545,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0189,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 2125,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.026,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Hannah",
-   "BIRTHS": 1888,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0231,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophia",
-   "BIRTHS": 1626,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0199,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 1618,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0198,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Marie",
-   "BIRTHS": 1618,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0198,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 1577,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0193,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sarah",
-   "BIRTHS": 1545,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0189,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophie",
-   "BIRTHS": 1545,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0189,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 1430,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.0175,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 1389,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": 0.017,
-   "TOTAL_BIRTH": 81722
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tobias",
-   "BIRTHS": 1991,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0251,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lukas",
-   "BIRTHS": 1944,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0245,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Maximilian",
-   "BIRTHS": 1777,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0224,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Felix",
-   "BIRTHS": 1729,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0218,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jakob",
-   "BIRTHS": 1706,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0215,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 1674,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0211,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Paul",
-   "BIRTHS": 1587,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.02,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jonas",
-   "BIRTHS": 1547,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0195,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 1491,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0188,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Alexander",
-   "BIRTHS": 1468,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0185,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 2063,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.026,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Hannah",
-   "BIRTHS": 1658,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0209,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophie",
-   "BIRTHS": 1587,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.02,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 1555,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0196,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sarah",
-   "BIRTHS": 1547,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0195,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophia",
-   "BIRTHS": 1515,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0191,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Marie",
-   "BIRTHS": 1476,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0186,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 1452,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0183,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 1428,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.018,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 1309,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": 0.0165,
-   "TOTAL_BIRTH": 79330
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lukas",
-   "BIRTHS": 2029,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0257,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tobias",
-   "BIRTHS": 1792,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0227,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Maximilian",
-   "BIRTHS": 1784,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0226,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 1753,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0222,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 1721,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0218,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jakob",
-   "BIRTHS": 1619,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0205,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Felix",
-   "BIRTHS": 1603,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0203,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 1555,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0197,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jonas",
-   "BIRTHS": 1555,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0197,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Paul",
-   "BIRTHS": 1547,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0196,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 2013,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0255,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Hannah",
-   "BIRTHS": 1753,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0222,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 1690,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0214,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sarah",
-   "BIRTHS": 1666,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0211,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophie",
-   "BIRTHS": 1516,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0192,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 1374,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0174,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 1350,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0171,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Marie",
-   "BIRTHS": 1342,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.017,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Leonie",
-   "BIRTHS": 1303,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0165,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 1279,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": 0.0162,
-   "TOTAL_BIRTH": 78952
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lukas",
-   "BIRTHS": 1968,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0252,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Maximilian",
-   "BIRTHS": 1968,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0252,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tobias",
-   "BIRTHS": 1773,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0227,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 1757,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0225,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jakob",
-   "BIRTHS": 1648,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0211,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Alexander",
-   "BIRTHS": 1632,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0209,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jonas",
-   "BIRTHS": 1625,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0208,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Julian",
-   "BIRTHS": 1500,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0192,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Sebastian",
-   "BIRTHS": 1461,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0187,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 1461,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0187,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Sarah",
-   "BIRTHS": 2007,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0257,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 1929,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0247,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Hannah",
-   "BIRTHS": 1742,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0223,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 1718,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.022,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Leonie",
-   "BIRTHS": 1625,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0208,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 1508,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0193,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophie",
-   "BIRTHS": 1437,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0184,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Marie",
-   "BIRTHS": 1398,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0179,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 1375,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0176,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 1304,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": 0.0167,
-   "TOTAL_BIRTH": 78109
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lukas",
-   "BIRTHS": 2284,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.029,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tobias",
-   "BIRTHS": 1921,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0244,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Maximilian",
-   "BIRTHS": 1874,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0238,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Alexander",
-   "BIRTHS": 1803,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0229,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 1795,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0228,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jonas",
-   "BIRTHS": 1685,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0214,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Simon",
-   "BIRTHS": 1575,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.02,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Jakob",
-   "BIRTHS": 1496,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.019,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 1433,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0182,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Florian",
-   "BIRTHS": 1425,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0181,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 2087,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0265,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sarah",
-   "BIRTHS": 1961,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0249,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 1913,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0243,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Hannah",
-   "BIRTHS": 1630,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0207,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Leonie",
-   "BIRTHS": 1520,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0193,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 1504,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0191,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophie",
-   "BIRTHS": 1402,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0178,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 1346,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0171,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Marie",
-   "BIRTHS": 1346,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0171,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lea",
-   "BIRTHS": 1221,
-   "YEAR": 2010,
-   "DEFINITION": "",
-   "PCT": 0.0155,
-   "TOTAL_BIRTH": 78742
- },
- {
-   "RANK": "",
-   "GENDER": "",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": null,
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "Quellen:",
-   "GENDER": "https://www.behindthename.com/top/lists/austria",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": null,
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "",
-   "GENDER": "http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/025423.html",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": null,
-   "TOTAL_BIRTH": null
- }
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 1929,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,36%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 1929,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,36%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 1831,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,24%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 1831,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,24%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 1716,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,10%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Paul",
+    "BIRTHS": 1683,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,06%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 1659,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,03%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 1602,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,96%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 1545,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,89%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 1545,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,89%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 2125,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,60%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 1888,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "2,31%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophia",
+    "BIRTHS": 1626,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,99%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 1618,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,98%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 1618,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,98%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 1577,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,93%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 1545,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,89%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 1545,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,89%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 1430,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,75%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Mia",
+    "BIRTHS": 1389,
+    "YEAR": 2014,
+    "DEFINITION": "",
+    "PCT": "1,70%",
+    "TOTAL_BIRTH": 81722
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 1991,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,51%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 1944,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,45%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 1777,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,24%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 1729,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,18%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 1706,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,15%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 1674,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,11%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Paul",
+    "BIRTHS": 1587,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,00%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 1547,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,95%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 1491,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,88%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 1468,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,85%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 2063,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,60%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 1658,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,09%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 1587,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "2,00%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 1555,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,96%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 1547,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,95%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophia",
+    "BIRTHS": 1515,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,91%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 1476,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,86%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 1452,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,83%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 1428,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,80%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Mia",
+    "BIRTHS": 1309,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": "1,65%",
+    "TOTAL_BIRTH": 79330
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 2029,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,57%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 1792,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,27%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 1784,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,26%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Luca",
+    "BIRTHS": 1753,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,22%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 1721,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,18%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 1619,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,05%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 1603,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,03%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 1555,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,97%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 1555,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,97%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Paul",
+    "BIRTHS": 1547,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,96%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 2013,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,55%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 1753,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,22%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 1690,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,14%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 1666,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "2,11%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 1516,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,92%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 1374,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,74%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 1350,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,71%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 1342,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,70%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 1303,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,65%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 1279,
+    "YEAR": 2012,
+    "DEFINITION": "",
+    "PCT": "1,62%",
+    "TOTAL_BIRTH": 78952
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 1968,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,52%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 1968,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,52%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 1773,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,27%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 1757,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,25%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 1648,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,11%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 1632,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,09%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 1625,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,08%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 1500,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,92%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 1461,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,87%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 1461,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,87%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sarah",
+    "BIRTHS": 2007,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,57%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 1929,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,47%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 1742,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,23%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 1718,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,20%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 1625,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "2,08%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 1508,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,93%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 1437,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,84%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 1398,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,79%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 1375,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,76%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 1304,
+    "YEAR": 2011,
+    "DEFINITION": "",
+    "PCT": "1,67%",
+    "TOTAL_BIRTH": 78109
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 2284,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,90%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 1921,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,44%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 1874,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,38%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 1803,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,29%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 1795,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,28%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 1685,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,14%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 1575,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,00%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 1496,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,90%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 1433,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,82%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 1425,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,81%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 2087,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,65%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 1961,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,49%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 1913,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,43%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 1630,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "2,07%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 1520,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,93%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 1504,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,91%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 1402,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,78%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 1346,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,71%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 1346,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,71%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lea",
+    "BIRTHS": 1221,
+    "YEAR": 2010,
+    "DEFINITION": "",
+    "PCT": "1,55%",
+    "TOTAL_BIRTH": 78742
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 938,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 829,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 805,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 789,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Paul",
+    "BIRTHS": 785,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 774,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 756,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 731,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 695,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 686,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 998,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 808,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 710,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 678,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophia",
+    "BIRTHS": 652,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 645,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Mia",
+    "BIRTHS": 639,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 625,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emilia",
+    "BIRTHS": 592,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lea",
+    "BIRTHS": 529,
+    "YEAR": 2016,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": "1 011",
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 860,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "BIRTHS": 801,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 777,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Paul",
+    "BIRTHS": 748,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 737,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Elias",
+    "BIRTHS": 721,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 701,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Leon",
+    "BIRTHS": 701,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 683,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 971,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 829,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 675,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Mia",
+    "BIRTHS": 674,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 645,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 645,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 640,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 572,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophia",
+    "BIRTHS": 548,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Emilia",
+    "BIRTHS": 547,
+    "YEAR": 2015,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 813,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 785,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 748,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 739,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 708,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 691,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "BIRTHS": 657,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 629,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 625,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 617,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 862,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 758,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 741,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 647,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 576,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 569,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 547,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Marie",
+    "BIRTHS": 527,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 478,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lea",
+    "BIRTHS": 472,
+    "YEAR": 2009,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 856,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 850,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 777,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 745,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 737,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 718,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 713,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 685,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 663,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 663,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 850,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 785,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 748,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 671,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 599,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 540,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 538,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 515,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 511,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lara",
+    "BIRTHS": 439,
+    "YEAR": 2008,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": 955,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 834,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 814,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 749,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 711,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 673,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 656,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Felix",
+    "BIRTHS": 643,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 641,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 634,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 843,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 821,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 800,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 742,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 604,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 603,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 542,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 516,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "BIRTHS": 488,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 458,
+    "YEAR": 2007,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 008",
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 871,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 850,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 781,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 715,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 703,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 701,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 682,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 666,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 635,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 960,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 922,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 871,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 759,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 725,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 599,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 549,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 548,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 519,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lara",
+    "BIRTHS": 452,
+    "YEAR": 2006,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 042",
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 916,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 855,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 839,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 726,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 723,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 709,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 706,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 686,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "BIRTHS": 666,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 943,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 910,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 883,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 814,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 657,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 649,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 587,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 544,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 536,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lea",
+    "BIRTHS": 531,
+    "YEAR": 2005,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 215",
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 947,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 914,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 802,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 758,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 756,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 745,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": 714,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 711,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 711,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 916,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 833,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 822,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 791,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 712,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 707,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 587,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 586,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 553,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lea",
+    "BIRTHS": 526,
+    "YEAR": 2004,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 369",
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 968,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 875,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 817,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 737,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 735,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": 735,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Julian",
+    "BIRTHS": 706,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Simon",
+    "BIRTHS": 701,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 700,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 923,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 807,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 788,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 745,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 745,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 673,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "BIRTHS": 643,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 632,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 551,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 518,
+    "YEAR": 2003,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 143",
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": 974,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 872,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 862,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 837,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": 836,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 810,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 765,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Marcel",
+    "BIRTHS": 756,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 736,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": "1 016",
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": 933,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 819,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 817,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 771,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 678,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 667,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Selina",
+    "BIRTHS": 605,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 584,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 546,
+    "YEAR": 2002,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 293",
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 085",
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": 933,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 872,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 864,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 762,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Marcel",
+    "BIRTHS": 742,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 742,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 730,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 699,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 018",
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": "1 003",
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 863,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 836,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 782,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 762,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 564,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Selina",
+    "BIRTHS": 543,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 494,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sophie",
+    "BIRTHS": 490,
+    "YEAR": 2001,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 456",
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 096",
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 093",
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 970,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 896,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 758,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 751,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": 733,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "BIRTHS": 732,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 731,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 239",
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": "1 042",
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 884,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 881,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 836,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 792,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 553,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Michelle",
+    "BIRTHS": 511,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 511,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 462,
+    "YEAR": 2000,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 362",
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 166",
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 113",
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 984,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": 970,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "BIRTHS": 818,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": 752,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": 740,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "David",
+    "BIRTHS": 739,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Sebastian",
+    "BIRTHS": 724,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 320",
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 968,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": 953,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 818,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 814,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 770,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 558,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Michelle",
+    "BIRTHS": 513,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lena",
+    "BIRTHS": 511,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 503,
+    "YEAR": 1999,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 455",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 323",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 189",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 067",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 052",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": 882,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": 857,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": 824,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": 815,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Philipp",
+    "BIRTHS": 812,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 430",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 096",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": "1 057",
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 890,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 797,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 731,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 571,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 564,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 525,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Magdalena",
+    "BIRTHS": 516,
+    "YEAR": 1998,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 551",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 436",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 159",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 151",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 144",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 056",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": 989,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": 937,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": 931,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": 850,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 488",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 086",
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 973,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 962,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 896,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 729,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 617,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 598,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Vanessa",
+    "BIRTHS": 589,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Nadine",
+    "BIRTHS": 513,
+    "YEAR": 1997,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 557",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 545",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 375",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 250",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 214",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 173",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 132",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": "1 100",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": "1 055",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 041",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 570",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 219",
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 972,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 954,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 929,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 873,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 759,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 608,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 605,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Laura",
+    "BIRTHS": 544,
+    "YEAR": 1996,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 711",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 553",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 504",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 272",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 269",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 238",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 236",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 205",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": "1 188",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": "1 109",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 601",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 364",
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 970,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 940,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 914,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 845,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 793,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 714,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 649,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 568,
+    "YEAR": 1995,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 819",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 570",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 475",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 412",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 323",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": "1 320",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 320",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 268",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 208",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": "1 154",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 836",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 411",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": "1 114",
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 971,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 866,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 836,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 792,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 740,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 696,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 643,
+    "YEAR": 1994,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 928",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 613",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 590",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 588",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 518",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 348",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Dominik",
+    "BIRTHS": "1 227",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": "1 210",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 209",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 185",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 753",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 462",
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": 970,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 931,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 918,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 911,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 907,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 794,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 767,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 723,
+    "YEAR": 1993,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "1 991",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 800",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 660",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 641",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 497",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": "1 354",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "BIRTHS": "1 256",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Florian",
+    "BIRTHS": "1 253",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": "1 210",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Andreas",
+    "BIRTHS": "1 209",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 755",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 485",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": "1 058",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": "1 012",
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 924,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 838,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 829,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 785,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 757,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 728,
+    "YEAR": 1992,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "2 052",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 872",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 861",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 741",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 639",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": "1 349",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Markus",
+    "BIRTHS": "1 294",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": "1 243",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Andreas",
+    "BIRTHS": "1 238",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "BIRTHS": "1 212",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 635",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 522",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": "1 128",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": "1 057",
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 970,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 940,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 856,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 760,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Anna",
+    "BIRTHS": 721,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Daniela",
+    "BIRTHS": 704,
+    "YEAR": 1991,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Michael",
+    "BIRTHS": "2 092",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Thomas",
+    "BIRTHS": "1 882",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Patrick",
+    "BIRTHS": "1 814",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": "1 709",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Stefan",
+    "BIRTHS": "1 702",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Christoph",
+    "BIRTHS": "1 477",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Andreas",
+    "BIRTHS": "1 340",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Markus",
+    "BIRTHS": "1 331",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Manuel",
+    "BIRTHS": "1 323",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "m",
+    "NAME": "Martin",
+    "BIRTHS": "1 173",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Julia",
+    "BIRTHS": "1 594",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Lisa",
+    "BIRTHS": "1 235",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Katharina",
+    "BIRTHS": "1 083",
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Melanie",
+    "BIRTHS": 993,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sabrina",
+    "BIRTHS": 968,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Stefanie",
+    "BIRTHS": 965,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Sandra",
+    "BIRTHS": 894,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Christina",
+    "BIRTHS": 794,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Daniela",
+    "BIRTHS": 724,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  },
+  {
+    "RANK": "",
+    "GENDER": "w",
+    "NAME": "Nicole",
+    "BIRTHS": 677,
+    "YEAR": 1990,
+    "DEFINITION": "",
+    "PCT": "",
+    "TOTAL_BIRTH": ""
+  }
 ]
