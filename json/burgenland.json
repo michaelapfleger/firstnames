@@ -1,0 +1,182 @@
+[
+  {
+    "NAME": "Paul",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 33
+  },
+  {
+    "NAME": "Tobias",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 29
+  },
+  {
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 28
+  },
+  {
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 27
+  },
+  {
+    "NAME": "Raphael",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 24
+  },
+  {
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 22
+  },
+  {
+    "NAME": "Felix",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 22
+  },
+  {
+    "NAME": "Elias",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 21
+  },
+  {
+    "NAME": "Julian",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 21
+  },
+  {
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 20
+  },
+  {
+    "NAME": "Nico",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 19
+  },
+  {
+    "NAME": "Leon",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 18
+  },
+  {
+    "NAME": "David",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Sebastian",
+    "GENDER": "m",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Anna",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 26
+  },
+  {
+    "NAME": "Leonie",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 23
+  },
+  {
+    "NAME": "Emma",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 20
+  },
+  {
+    "NAME": "Hannah",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 20
+  },
+  {
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 19
+  },
+  {
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 19
+  },
+  {
+    "NAME": "Lena",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 18
+  },
+  {
+    "NAME": "Mia",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 18
+  },
+  {
+    "NAME": "Emily",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 17
+  },
+  {
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 17
+  },
+  {
+    "NAME": "Valentina",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Julia",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Lara",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Nina",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 16
+  },
+  {
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "YEAR": 2014,
+    "COUNT": 16
+  }
+]
