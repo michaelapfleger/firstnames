@@ -1,0 +1,202 @@
+[
+  {
+    "RANK": 1,
+    "GENDER": "m",
+    "NAME": "Anas",
+    "BIRTHS": 33,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0073,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 2,
+    "GENDER": "m",
+    "NAME": "Ibrahim",
+    "BIRTHS": 30,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0066,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 3,
+    "GENDER": "m",
+    "NAME": "Yanis",
+    "BIRTHS": 27,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0059,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 4,
+    "GENDER": "m",
+    "NAME": "Alex",
+    "BIRTHS": 16,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0035,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 5,
+    "GENDER": "m",
+    "NAME": "Maxime",
+    "BIRTHS": 14,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0031,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 6,
+    "GENDER": "m",
+    "NAME": "Walid",
+    "BIRTHS": 14,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0031,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 7,
+    "GENDER": "m",
+    "NAME": "Daniel",
+    "BIRTHS": 12,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0026,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 8,
+    "GENDER": "m",
+    "NAME": "Eden",
+    "BIRTHS": 12,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0026,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 9,
+    "GENDER": "m",
+    "NAME": "Rayane",
+    "BIRTHS": 11,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0024,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 10,
+    "GENDER": "m",
+    "NAME": "Louis",
+    "BIRTHS": 11,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.0024,
+    "TOTAL_BIRTH": 4549
+  },
+  {
+    "RANK": 1,
+    "GENDER": "w",
+    "NAME": "Lina",
+    "BIRTHS": 61,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.013978002,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 2,
+    "GENDER": "w",
+    "NAME": "Malak",
+    "BIRTHS": 48,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.010999083,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 3,
+    "GENDER": "w",
+    "NAME": "Aya",
+    "BIRTHS": 43,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.009853346,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 4,
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "BIRTHS": 42,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.009624198,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 5,
+    "GENDER": "w",
+    "NAME": "Nour",
+    "BIRTHS": 42,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.009624198,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 6,
+    "GENDER": "w",
+    "NAME": "Yasmine",
+    "BIRTHS": 39,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.008936755,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 7,
+    "GENDER": "w",
+    "NAME": "Sofia",
+    "BIRTHS": 36,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.008249313,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 8,
+    "GENDER": "w",
+    "NAME": "Sara",
+    "BIRTHS": 36,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.008249313,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 9,
+    "GENDER": "w",
+    "NAME": "Maria",
+    "BIRTHS": 32,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.007332722,
+    "TOTAL_BIRTH": 4364
+  },
+  {
+    "RANK": 10,
+    "GENDER": "w",
+    "NAME": "Emma",
+    "BIRTHS": 29,
+    "YEAR": 2013,
+    "DEFINITION": "",
+    "PCT": 0.00664528,
+    "TOTAL_BIRTH": 4364
+  }
+]

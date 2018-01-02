@@ -43,7 +43,7 @@ function createBubbles(land) {
                 return d.COUNT;
             })
             .each(function (d) {
-                if (name = d.data.NAME ) {
+                if (name = d.data.NAME) {
                     d.name = name;
                     d.package = d.name;
                     d.gender = d.data.GENDER;
