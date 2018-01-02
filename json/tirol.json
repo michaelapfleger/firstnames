@@ -8398,5 +8398,185 @@
     "NAME": "FRIDA",
     "COUNT": 5,
     "YEAR": 2009
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Maximilian",
+    "COUNT": 100,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "David",
+    "COUNT": 93,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Elias",
+    "COUNT": 93,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Felix",
+    "COUNT": 78,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Paul",
+    "COUNT": 75,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Tobias",
+    "COUNT": 73,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Jakob",
+    "COUNT": 67,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Lukas",
+    "COUNT": 66,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Leo",
+    "COUNT": 61,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Samuel",
+    "COUNT": 61,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Simon",
+    "COUNT": 60,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Alexander",
+    "COUNT": 57,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Jonas",
+    "COUNT": 57,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Leon",
+    "COUNT": 56,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "m",
+    "NAME": "Fabian",
+    "COUNT": 55,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Anna",
+    "COUNT": 121,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Emma",
+    "COUNT": 94,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Laura",
+    "COUNT": 74,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Sophia",
+    "COUNT": 73,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Lena",
+    "COUNT": 68,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Marie",
+    "COUNT": 66,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Emilia",
+    "COUNT": 55,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Lea",
+    "COUNT": 54,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Mia",
+    "COUNT": 54,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Valentina",
+    "COUNT": 54,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Hannah",
+    "COUNT": 53,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Lara",
+    "COUNT": 49,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Julia",
+    "COUNT": 45,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Leonie",
+    "COUNT": 40,
+    "YEAR": 2016
+  },
+  {
+    "GENDER": "w",
+    "NAME": "Sarah",
+    "COUNT": 38,
+    "YEAR": 2016
   }
 ]
