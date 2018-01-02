@@ -21,6 +21,7 @@ function renderBarChart(country, year) {
 
         //filter data for boys, girs concerning the year
         data.forEach(function (d) {
+
             if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
                 $.extend(girlsData, {
                     [girlsCounter]: d
