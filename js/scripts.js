@@ -146,6 +146,7 @@ function moveToSelected(element) {
     $(prevSecond).prevAll().removeClass().addClass('hideLeft');
 
     // rerender bar chart for each country
-    country = $(element)[0].id;
+    var country = selected[0].id;
+    var year = $('#myRange')[0].value;
     renderBarChart(country, year);
 }
