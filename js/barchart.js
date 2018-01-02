@@ -35,13 +35,13 @@ function renderBarChart(country, year) {
             }
         })
         if (jQuery.isEmptyObject(girlsData)) {
-            console.log("no data available");
+            console.log("no data available - barchart");
             $('#' + country + ' .girls~.no-data').html("No data for girls available now!");
         } else {
             $('#' + country + ' .girls~.no-data').html("");
         }
         if (jQuery.isEmptyObject(boysData)) {
-            console.log("no data available");
+            console.log("no data available - barchart");
             $('#' + country + ' .boys~.no-data').html("No data for boys available now!");
 
         } else {

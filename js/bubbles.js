@@ -28,6 +28,8 @@ var toolTip = d3.select('body').append('div')
     .style('opacity', 0);
 
 function createBubbles(land) {
+    var year = $('#myRange')[0].value;
+    console.log("year",year);
 
     d3.select(".bubbles").selectAll("g").remove();
 
@@ -41,10 +43,12 @@ function createBubbles(land) {
                 return d.COUNT;
             })
             .each(function (d) {
-                if (name = d.data.NAME) {
+                if (name = d.data.NAME ) {
                     d.name = name;
                     d.package = d.name;
                     d.gender = d.data.GENDER;
+                    d.year = d.data.YEAR;
+                    console.log(d.name + " year: " + d.data.YEAR);
                 }
             });
 
@@ -52,6 +56,7 @@ function createBubbles(land) {
             .data(pack(root).leaves())
             .enter()
             .append('g')
+            // .filter(function(d) { return d.year == year })
             .attr('class', 'node')
             .attr('transform', function (d) {
                 return "translate(" + d.x + "," + d.y + ")";

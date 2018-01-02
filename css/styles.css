@@ -35,6 +35,10 @@ circle {
     top: 60px;
     position: relative;
 }
+#gender-checkboxes {
+    position: relative;
+    top: 72px;
+}
 
 /*map*/
 
