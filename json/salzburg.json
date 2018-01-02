@@ -1,0 +1,146 @@
+[
+  {
+    "NAME": "Anna",
+    "GENDER": " w",
+    "YEAR": 2015,
+    "COUNT": 240
+  },
+  {
+    "NAME": "Sarah",
+    "GENDER": " w",
+    "YEAR": 2015,
+    "COUNT": 120
+  },
+  {
+    "NAME": "Julia",
+    "GENDER": " w",
+    "YEAR": 2015,
+    "COUNT": 95
+  },
+  {
+    "NAME": "Hannah",
+    "GENDER": " w",
+    "YEAR": 2015,
+    "COUNT": 64
+  },
+  {
+    "NAME": "Laura",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 53
+  },
+  {
+    "NAME": "Leonie",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 42
+  },
+  {
+    "NAME": "Katharina",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 35
+  },
+  {
+    "NAME": "Lena",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 30
+  },
+  {
+    "NAME": "Sopie",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 27
+  },
+  {
+    "NAME": "Magdalena",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 18
+  },
+  {
+    "NAME": "Marie",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 10
+  },
+  {
+    "NAME": "Johanna",
+    "YEAR": 2015,
+    "GENDER": " w",
+    "COUNT": 7
+  },
+  {
+    "NAME": "Lukas",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 77
+  },
+  {
+    "NAME": "David",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 65
+  },
+  {
+    "NAME": "Simon",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 63
+  },
+  {
+    "NAME": "Tobias",
+    "YEAR": 2015,
+    "GENDER": " m ",
+    "COUNT": 62
+  },
+  {
+    "NAME": "Luka",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 58
+  },
+  {
+    "NAME": "Jakob",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 57
+  },
+  {
+    "NAME": "Alexander",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 51
+  },
+  {
+    "NAME": "Maximilian",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 50
+  },
+  {
+    "NAME": "Sebastian",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 30
+  },
+  {
+    "NAME": "Felix",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 20
+  },
+  {
+    "NAME": "Julian",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 12
+  },
+  {
+    "NAME": "Jonas",
+    "YEAR": 2015,
+    "GENDER": " m",
+    "COUNT": 4
+  }
+]
