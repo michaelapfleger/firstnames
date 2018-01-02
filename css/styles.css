@@ -9,6 +9,11 @@ body {
 .infobox:hover {
     cursor: pointer;
 }
+.infobox {
+    background-color: white;
+    position: absolute;
+    z-index: 200;
+}
 .infobox h3 {
     display: inline-block;
     float: left;
@@ -24,6 +29,11 @@ body {
 
 circle {
     cursor: pointer;
+}
+#bubbles {
+    z-index: 0;
+    top: 60px;
+    position: relative;
 }
 
 /*map*/

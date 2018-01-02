@@ -50,6 +50,7 @@ Highcharts.mapChart('map-austria', {
 
 $('.highcharts-point').click(function (event) {
     //remove active class form all states
+    $('#name-span').text("Please select a name!");
     $('.highcharts-point').removeClass('mapActive');
     //set current state active
     $(event.target).addClass('mapActive');
@@ -59,6 +60,13 @@ $('.highcharts-point').click(function (event) {
     let start = n + 16;
     let end = classnames.search("highcharts-key");
     land = classnames.substring(start, end - 1);
+    if (land == "niederösterreich") {
+        land = "niederoesterreich";
+    }
+    if (land == "oberösterreich") {
+        land = "oberoesterreich";
+    }
     createBubbles(land);
     console.log('current State: ', land);
-})
+
+});
