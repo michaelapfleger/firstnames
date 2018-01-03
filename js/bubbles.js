@@ -11,6 +11,7 @@ var height = +svg.attr("height");
 
 var format = d3.format(",d");
 
+
 var length = 200;
 var blues = d3.scaleLinear().domain([1, length])
     .interpolate(d3.interpolateHcl)
@@ -74,6 +75,10 @@ function createBubbles(land) {
         });
 
 
+        var scaleRadius = d3.scaleLinear()
+            .domain([d3.min(sortedData, function(d) { return +d.COUNT; }),
+                d3.max(sortedData, function(d) { return +d.COUNT; })])
+            .range([25,100]);
 
         var root = d3.hierarchy({
                 children: sortedData
@@ -119,7 +124,7 @@ function createBubbles(land) {
             })
             .transition().duration(2000)
             .attr('r', function (d) {
-                return d.value/2;
+                return scaleRadius( d.value);
             });
 
         /*svg.selectAll('circle').append("animate")
