@@ -50,7 +50,7 @@ Highcharts.mapChart('map-austria', {
 
 $('.highcharts-point').click(function (event) {
     //remove active class form all states
-    $('#name-span').text("Please select a name!");
+    $('#name-span').text("Bitte einen Namen wählen!");
     $('.highcharts-point').removeClass('mapActive');
     //set current state active
     $(event.target).addClass('mapActive');

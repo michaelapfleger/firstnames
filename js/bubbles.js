@@ -137,7 +137,8 @@ function createBubbles(land) {
                     .style('left', (d.x) + 'px')
                     .style('top', (d.y + d.r) + 'px');
                 currentName = d.name;
-                $('#name-span').html(currentName);
+                var gender = d.gender == "w" ? "weiblich" : "männlich";
+                $('#name-span').html(currentName + ", " + gender + ", " + d.value + " Geburten");
             })
             .on('mouseout', function (d) {
                 toolTip.transition().duration(200).style('opacity', 0);
