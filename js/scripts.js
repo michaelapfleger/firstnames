@@ -40,6 +40,17 @@ $(document).ready(function () {
     $('#range-slider-austria').html(year);
 
 
+    $('#gender-checkbox-male').change(function () {
+        var land =  $('#selectedCountry')[0].textContent;
+        createBubbles(land);
+    });
+    $('#gender-checkbox-female').change(function () {
+        // this.checked
+        var land =  $('#selectedCountry')[0].textContent;
+        createBubbles(land);
+    });
+
+
     // Eventos teclado
     $(document).keydown(function (e) {
         switch (e.which) {
@@ -84,7 +95,7 @@ $(document).ready(function () {
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
         var article = $('#article');
-        console.log('name :', getCurrentName());
+        // console.log('name :', getCurrentName());
         var name = getCurrentName();
         if (name) {
             if (wikipedia.hasClass("closed")) {

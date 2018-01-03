@@ -73,4 +73,7 @@ $('.highcharts-point').click(function (event) {
     $('#selectedCountry').html(land);
     console.log('current State: ', land);
 
+    $('#gender-checkbox-male').prop('checked', true);
+    $('#gender-checkbox-female').prop('checked', true);
+
 });

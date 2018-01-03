@@ -43,16 +43,33 @@ function createBubbles(land) {
     d3.json('../json/' + land + '.json', function (error, data) {
         //d3.json('../json/upper-austria.json', function (error, data) {
         if (error) throw error;
+        var checkboxmale = $('#gender-checkbox-male')[0].checked;
+        var checkboxfemale = $('#gender-checkbox-female')[0].checked;
 
         data.forEach(function (d) {
-
-            if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
-               sortedData.push(d);
-                girlsCounter++;
-            }
-            if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
-                sortedData.push(d);
-                boysCounter++;
+            if (checkboxmale && checkboxfemale) {
+                if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
+                    sortedData.push(d);
+                    girlsCounter++;
+                }
+                if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
+                    sortedData.push(d);
+                    boysCounter++;
+                }
+            } else {
+                if (checkboxmale) {
+                    amountDisplayed = 8;
+                    if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
+                        sortedData.push(d);
+                        boysCounter++;
+                    }
+                } else if (checkboxfemale) {
+                    amountDisplayed = 8;
+                    if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
+                        sortedData.push(d);
+                        girlsCounter++;
+                    }
+                }
             }
         });
 
