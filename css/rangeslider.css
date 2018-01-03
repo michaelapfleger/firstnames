@@ -36,3 +36,10 @@
     background: #4CAF50; /* Green background */
     cursor: pointer; /* Cursor on hover */
 }
+
+#austrianTab .range-slider {
+    margin-top: 700px;
+}
+#europe .range-slider {
+    margin-top: 100px;
+}

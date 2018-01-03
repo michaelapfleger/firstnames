@@ -70,7 +70,7 @@ function createBubbles(land) {
                     d.package = d.name;
                     d.gender = d.data.GENDER;
                     d.year = d.data.YEAR;
-                    // console.log(d.name + " year: " + d.data.YEAR);
+                    console.log(d.name + " " + d.gender);
                 }
             });
 
@@ -93,7 +93,7 @@ function createBubbles(land) {
             })
             .attr('r', 0)
             .attr('fill', function (d) {
-                if (d.gender == ' m') {
+                if (d.gender == 'm') {
                     return blues(d.value);
                 } else {
                     return reds(d.value);
@@ -102,7 +102,7 @@ function createBubbles(land) {
             })
             .transition().duration(2000)
             .attr('r', function (d) {
-                return d.value;
+                return d.value/2;
             });
 
         /*svg.selectAll('circle').append("animate")
