@@ -28,6 +28,11 @@ var toolTip = d3.select('body').append('div')
     .attr('class', 'tooltip')
     .style('opacity', 0);
 
+function ucFirst(string) {
+    return string.substring(0, 1).toUpperCase() + string.substring(1).toLowerCase();
+}
+
+
 function createBubbles(land) {
     var year = $('#myRangeAustria')[0].value;
     console.log("bubbles for year",year);
@@ -108,7 +113,7 @@ function createBubbles(land) {
 
         node.append('circle')
             .attr('name', function (d) {
-                return d.name;
+                return ucFirst(d.name);
             })
             .attr('gender', function (d) {
                 return d.gender;
@@ -141,13 +146,13 @@ function createBubbles(land) {
                 // toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
                 //     .style('left', (d.x) + 'px')
                 //     .style('top', (d.y + d.r) + 'px');
-                currentName = d.name;
+                currentName = ucFirst(d.name);
                 var gender = d.gender == "w" ? "weiblich" : "männlich";
                 $('#name-span').html(currentName + ", " + gender + ", " + d.value + " Geburten");
             })
             .on("mouseover", function (d) {
                 div.transition().duration(200).style("opacity", .9);
-                div.html(d.name)
+                div.html(ucFirst(d.name))
                     .style("left", (d.x + 850 + d.r) + "px")
                     .style("top", (d.y + 200 - (d.r/2) )   + "px");
             })
