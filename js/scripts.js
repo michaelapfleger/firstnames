@@ -1,6 +1,6 @@
 let country = "austria";
 let year = "2010";
-let land = "oberösterreich";
+let land = "oberoesterreich";
 
 $(document).ready(function () {
     console.log("ready!");
@@ -17,6 +17,7 @@ $(document).ready(function () {
         $('#tab-austria').addClass("active");
         $('#austrianTab').addClass("active");
         $('#europe').removeClass("active");
+
         createBubbles(land);
     });
 
@@ -30,7 +31,12 @@ $(document).ready(function () {
         wikipedia.addClass("closed");
         wikipedia.removeClass("open");
     });
-
+    $('#myRangeAustria').on('input', function () {
+        console.log("myRangeAustria");
+        year = this.value;
+        $('#range-slider-austria').html(year);
+    });
+    $('#range-slider-austria').html(year);
 
 
     // Eventos teclado
@@ -62,17 +68,17 @@ $(document).ready(function () {
         moveToSelected('next');
     });
 
-    $('#myRange').on('input', function () {
+    $('#myRangeEurope').on('input', function () {
         year = this.value;
         var country = $('#carousel .selected')[0].id;
         console.log("country", country);
         renderBarChart(country, year);
         console.log("year from slider", year);
-        $('#range-slider').html(year);
+        $('#range-slider-europe').html(year);
     });
 
     renderBarChart(country, year);
-    $('#range-slider').html(year);
+    $('#range-slider-europe').html(year);
 
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
@@ -150,6 +156,6 @@ function moveToSelected(element) {
 
     // rerender bar chart for each country
     var country = selected[0].id;
-    var year = $('#myRange')[0].value;
+    var year = $('#myRangeEurope')[0].value;
     renderBarChart(country, year);
 }

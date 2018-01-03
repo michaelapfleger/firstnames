@@ -28,7 +28,7 @@ var toolTip = d3.select('body').append('div')
     .style('opacity', 0);
 
 function createBubbles(land) {
-    var year = $('#myRange')[0].value;
+    var year = $('#myRangeAustria')[0].value;
     console.log("year",year);
 
     d3.select(".bubbles").selectAll("g").remove();
@@ -48,7 +48,7 @@ function createBubbles(land) {
                     d.package = d.name;
                     d.gender = d.data.GENDER;
                     d.year = d.data.YEAR;
-                    console.log(d.name + " year: " + d.data.YEAR);
+                    // console.log(d.name + " year: " + d.data.YEAR);
                 }
             });
 
