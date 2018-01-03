@@ -64,6 +64,8 @@ $(document).ready(function () {
 
     $('#myRange').on('input', function () {
         year = this.value;
+        var country = $('#carousel .selected')[0].id;
+        console.log("country", country);
         renderBarChart(country, year);
         console.log("year from slider", year);
         $('#range-slider').html(year);
