@@ -1,1262 +1,6980 @@
 [
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 477,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Liam",
-   "BIRTHS": 433,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 345,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 345,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 337,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 314,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 302,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Samuel",
-   "BIRTHS": 296,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Louis",
-   "BIRTHS": 288,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Julian",
-   "BIRTHS": 276,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 488,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 446,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Elena",
-   "BIRTHS": 327,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sofia",
-   "BIRTHS": 318,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 308,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emilia",
-   "BIRTHS": 296,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 296,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 292,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 291,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mila",
-   "BIRTHS": 291,
-   "YEAR": 2016,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 87883
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 443,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Liam",
-   "BIRTHS": 412,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 361,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 357,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 353,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 335,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Matteo",
-   "BIRTHS": 286,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 280,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Louis",
-   "BIRTHS": 267,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Levin",
-   "BIRTHS": 255,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 465,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 447,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 335,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 320,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sofia",
-   "BIRTHS": 318,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mila",
-   "BIRTHS": 312,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 309,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Elena",
-   "BIRTHS": 306,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 288,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lina",
-   "BIRTHS": 284,
-   "YEAR": 2015,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 86559
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 459,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 398,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 350,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Liam",
-   "BIRTHS": 342,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 341,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 341,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Elias",
-   "BIRTHS": 308,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Matteo",
-   "BIRTHS": 298,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Julian",
-   "BIRTHS": 290,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Louis",
-   "BIRTHS": 283,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 485,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 384,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 383,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 340,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 324,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sara",
-   "BIRTHS": 311,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sofia",
-   "BIRTHS": 297,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lea",
-   "BIRTHS": 295,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 285,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Elena",
-   "BIRTHS": 281,
-   "YEAR": 2014,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 85287
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 438,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 392,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Liam",
-   "BIRTHS": 323,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 319,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 312,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 300,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Julian",
-   "BIRTHS": 277,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Samuel",
-   "BIRTHS": 268,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leandro",
-   "BIRTHS": 257,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Matteo",
-   "BIRTHS": 255,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 387,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 380,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sara",
-   "BIRTHS": 323,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 311,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Alina",
-   "BIRTHS": 293,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 288,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 275,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 274,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sophia",
-   "BIRTHS": 274,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lea",
-   "BIRTHS": 273,
-   "YEAR": 2013,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82731
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Lucas",
-   "BIRTHS": 462,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 460,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 373,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leandro",
-   "BIRTHS": 313,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 311,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 308,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Samuel",
-   "BIRTHS": 294,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Liam",
-   "BIRTHS": 281,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Matteo",
-   "BIRTHS": 263,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Tim",
-   "BIRTHS": 257,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 402,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 356,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 347,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 327,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Alina",
-   "BIRTHS": 315,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 311,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 305,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sara",
-   "BIRTHS": 293,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 286,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sofia",
-   "BIRTHS": 273,
-   "YEAR": 2012,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 82164
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Noah",
-   "BIRTHS": 439,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Luca",
-   "BIRTHS": 394,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "David",
-   "BIRTHS": 356,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leandro",
-   "BIRTHS": 337,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Leon",
-   "BIRTHS": 326,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Gabriel",
-   "BIRTHS": 306,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Matteo",
-   "BIRTHS": 292,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Samuel",
-   "BIRTHS": 273,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Nico",
-   "BIRTHS": 259,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "m",
-   "NAME": "Levin",
-   "BIRTHS": 258,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Emma",
-   "BIRTHS": 392,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Mia",
-   "BIRTHS": 390,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lara",
-   "BIRTHS": 364,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Elena",
-   "BIRTHS": 313,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Sara",
-   "BIRTHS": 306,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Lena",
-   "BIRTHS": 306,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Julia",
-   "BIRTHS": 304,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Laura",
-   "BIRTHS": 297,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Nina",
-   "BIRTHS": 276,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "w",
-   "NAME": "Anna",
-   "BIRTHS": 275,
-   "YEAR": 2011,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": 80808
- },
- {
-   "RANK": "",
-   "GENDER": "",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "",
-   "GENDER": "",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "",
-   "GENDER": "",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "",
-   "GENDER": "",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "Quellen:",
-   "GENDER": "https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/vornamen-neugeborene.html",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- },
- {
-   "RANK": "",
-   "GENDER": "https://de.statista.com/statistik/daten/studie/411825/umfrage/geburten-in-der-schweiz/",
-   "NAME": "",
-   "BIRTHS": null,
-   "YEAR": null,
-   "DEFINITION": "",
-   "PCT": "",
-   "TOTAL_BIRTH": null
- }
+  {
+    "YEAR": 1993,
+    "NAME": "Alexandra",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Chantal",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Marina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Melanie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Nadine",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Selina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Stephanie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Anja",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Andrea",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Céline",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Jasmin",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Nadine",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Alexandra",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Jasmin",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Melanie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Céline",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Tamara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Anja",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Jasmin",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Leonie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Carla",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Melissa",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Noemi",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Alina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Livia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Stella",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Annika",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Matilda",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Livia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Charlotte",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lilly",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Noemi",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Alice",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Amelie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Eva",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Greta",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Liv",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Ava",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Ida",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Amélie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Livia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Stella",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Leonie",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Valentina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Yara",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Elisa",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Luna",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Mina",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Miriam",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Zoé",
+    "GENDER": "w",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Adrian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Alessandro",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Davide",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Robin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Adrian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Dominic",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Matthias",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Sebastian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Philipp",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Rafael",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Sebastian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Marc",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Dominik",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Nikola",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Dominic",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Nikola",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Severin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Elia",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Joel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Mattia",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Marc",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Aaron",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Ruben",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Ruben",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Ruben",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Levin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lino",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Henry",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lucas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Luka",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Arthur",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Niklas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Philipp",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Levin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Lionel",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Jim",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Julien",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Laurin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Lucas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Erik",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Henry",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Leonard",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lino",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Martin",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Mattia",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Noé",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Raphael",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Arthur",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Henri",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Livio",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Oskar",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Theo",
+    "GENDER": "m",
+    "BIRTHS": 10
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Michelle",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Selina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Alessandra",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Sabrina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Tamara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Ana",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Sabrina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Michelle",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Alessia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Michelle",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Ana",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Leonie",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lorena",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Alice",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Stella",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Elisa",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Mira",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Noemi",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Anouk",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Carla",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Paula",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Amélie",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Elisa",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Hanna",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Paula",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Lia",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Matilda",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Victoria",
+    "GENDER": "w",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Fabio",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Sandro",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Dominik",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Sandro",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Alessandro",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Marc",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Fabio",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Severin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Sven",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Christian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Fabio",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Nico",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Pascal",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Stefan",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Christian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Philipp",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Lucas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Elia",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Joel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Loris",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Alessandro",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Enea",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Andrin",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lino",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Aaron",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Adam",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Leonardo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Nino",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Sebastian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Milo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Oskar",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Milo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Raphael",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Aaron",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Emil",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lucas",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Mateo",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Nils",
+    "GENDER": "m",
+    "BIRTHS": 11
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Rahel",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Sandra",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Tamara",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Larissa",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Nathalie",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Jennifer",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Alexandra",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Diana",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Anouk",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Anouk",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Paula",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Ava",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Hannah",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Ava",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Carla",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Isabella",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Emily",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Hanna",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Alina",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Ida",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Luisa",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Matilda",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Maria",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Valentina",
+    "GENDER": "w",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Andreas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Joel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Till",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Fabio",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Sebastian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Alessandro",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Fabio",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Joel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Leonardo",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Luka",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Valentin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Emil",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Levin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Mattia",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Loris",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Robin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Levi",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Marlon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Valentin",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Nils",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Nino",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Leonardo",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 12
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Jennifer",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Michelle",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Melanie",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Jasmin",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Leonie",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Alina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Charlotte",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Emily",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Anouk",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Alina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Amélie",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Emily",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Ava",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Clara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Julie",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Mara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Stella",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Hannah",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Helena",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Mira",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Yara",
+    "GENDER": "w",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Thomas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Pascal",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Christian",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Pascal",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Tobias",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Nils",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Nico",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Nico",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Nils",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Linus",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Henry",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Florian",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Eric",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Henri",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Laurin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Laurin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Robin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Valentin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Rafael",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 13
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Melanie",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Lia",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Elin",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Stella",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Alina",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Johanna",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Giulia",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Ronja",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Victoria",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Charlotte",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Ava",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Christian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Marc",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Adrian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Laurin",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Valentin",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lionel",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lionel",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Juri",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Finn",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Jonathan",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Nico",
+    "GENDER": "m",
+    "BIRTHS": 14
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lisa",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Charlotte",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Clara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Valentina",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Clara",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Elin",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Luisa",
+    "GENDER": "w",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Dominik",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Oliver",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Dario",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Stefan",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Elia",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Rafael",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Eric",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Nils",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Henry",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Jakob",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 15
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Jasmin",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Sabrina",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Chiara",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Selina",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Elin",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Luisa",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Matilda",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Mila",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Hanna",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Stefan",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Stefan",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Joel",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Diego",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Matteo",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Max",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Maximilian",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Ben",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Emil",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 16
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Jessica",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lena",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Marc",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Stefan",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Dominik",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Gian",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Leonardo",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 17
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Vanessa",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Hannah",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Elena",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Mila",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Mila",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Charlotte",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Mila",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Elin",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Nicolas",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Gabriel",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Samuel",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 18
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Luisa",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Matilda",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Emilia",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Fabian",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Patrick",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Paul",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Vincent",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Leandro",
+    "GENDER": "m",
+    "BIRTHS": 19
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Lea",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Elin",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2005,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Jonas",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Benjamin",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Emil",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 20
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Kevin",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Manuel",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "Alexander",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Marco",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Tim",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1998,
+    "NAME": "Jan",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2003,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Leo",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Elias",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Moritz",
+    "GENDER": "m",
+    "BIRTHS": 21
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Melanie",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "Mia",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Nina",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Olivia",
+    "GENDER": "w",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Simon",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 1999,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 22
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2009,
+    "NAME": "Lara",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Sara",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Ella",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Lina",
+    "GENDER": "w",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Lukas",
+    "GENDER": "m",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Michael",
+    "GENDER": "m",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Daniel",
+    "GENDER": "m",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Felix",
+    "GENDER": "m",
+    "BIRTHS": 23
+  },
+  {
+    "YEAR": 2002,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Nora",
+    "GENDER": "w",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Sofia",
+    "GENDER": "w",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Sophia",
+    "GENDER": "w",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Noah",
+    "GENDER": "m",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2001,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Liam",
+    "GENDER": "m",
+    "BIRTHS": 24
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Sarah",
+    "GENDER": "w",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2008,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Julia",
+    "GENDER": "w",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 25
+  },
+  {
+    "YEAR": 2000,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 26
+  },
+  {
+    "YEAR": 2006,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 26
+  },
+  {
+    "YEAR": 2007,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 26
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 26
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 1996,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 1997,
+    "NAME": "Luca",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 2004,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Luis",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 2015,
+    "NAME": "Leon",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Julian",
+    "GENDER": "m",
+    "BIRTHS": 27
+  },
+  {
+    "YEAR": 1995,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 28
+  },
+  {
+    "YEAR": 2010,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 28
+  },
+  {
+    "YEAR": 2011,
+    "NAME": "Sophie",
+    "GENDER": "w",
+    "BIRTHS": 28
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 28
+  },
+  {
+    "YEAR": 2012,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 29
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 29
+  },
+  {
+    "YEAR": 1994,
+    "NAME": "David",
+    "GENDER": "m",
+    "BIRTHS": 29
+  },
+  {
+    "YEAR": 2016,
+    "NAME": "Louis",
+    "GENDER": "m",
+    "BIRTHS": 30
+  },
+  {
+    "YEAR": 1993,
+    "NAME": "Laura",
+    "GENDER": "w",
+    "BIRTHS": 31
+  },
+  {
+    "YEAR": 2013,
+    "NAME": "Anna",
+    "GENDER": "w",
+    "BIRTHS": 31
+  },
+  {
+    "YEAR": 2014,
+    "NAME": "Emma",
+    "GENDER": "w",
+    "BIRTHS": 32
+  }
 ]
