@@ -141,6 +141,9 @@ $(document).ready(function () {
 
 });
 
+var div = d3.select("#austrianTab").append("div")
+    .attr("class", "tooltip")
+    .style("opactiy", 0);
 
 function moveToSelected(element) {
 

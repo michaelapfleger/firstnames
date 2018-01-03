@@ -137,16 +137,22 @@ function createBubbles(land) {
             .attr("fill", "freeze");*/
 
         node.on('click', function (d) {
-                toolTip.transition().duration(200).style('opacity', 1);
-                toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
-                    .style('left', (d.x) + 'px')
-                    .style('top', (d.y + d.r) + 'px');
+                // toolTip.transition().duration(200).style('opacity', 1);
+                // toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
+                //     .style('left', (d.x) + 'px')
+                //     .style('top', (d.y + d.r) + 'px');
                 currentName = d.name;
                 var gender = d.gender == "w" ? "weiblich" : "männlich";
                 $('#name-span').html(currentName + ", " + gender + ", " + d.value + " Geburten");
             })
+            .on("mouseover", function (d) {
+                div.transition().duration(200).style("opacity", .9);
+                div.html(d.name)
+                    .style("left", (d.x + 850 + d.r) + "px")
+                    .style("top", (d.y + 200 - (d.r/2) )   + "px");
+            })
             .on('mouseout', function (d) {
-                toolTip.transition().duration(200).style('opacity', 0);
+                div.transition().duration(200).style("opacity", 0);
 
             });
 

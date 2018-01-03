@@ -149,3 +149,17 @@ input::-moz-focus-inner,
 input::-moz-focus-outer {
     border: 0;
 }
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background: #8c8e97;
+    border: 0;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    color: white;
+}

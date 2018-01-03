@@ -47,7 +47,6 @@ Highcharts.mapChart('map-austria', {
 });
 
 
-
 $('.highcharts-point').click(function (event) {
     //remove active class form all states
     $('#name-span').text("Bitte einen Namen wählen!");
