@@ -29,15 +29,37 @@ var toolTip = d3.select('body').append('div')
 
 function createBubbles(land) {
     var year = $('#myRangeAustria')[0].value;
-    console.log("year",year);
+    console.log("bubbles for year",year);
+
+    //define the number of displayed names
+    var amountDisplayed = 4;
+
+    var sortedData = [];
+    var girlsCounter = 0;
+    var boysCounter = 0;
 
     d3.select(".bubbles").selectAll("g").remove();
 
     d3.json('../json/' + land + '.json', function (error, data) {
         //d3.json('../json/upper-austria.json', function (error, data) {
         if (error) throw error;
+
+        data.forEach(function (d) {
+
+            if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
+               sortedData.push(d);
+                girlsCounter++;
+            }
+            if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
+                sortedData.push(d);
+                boysCounter++;
+            }
+        });
+
+
+
         var root = d3.hierarchy({
-                children: data
+                children: sortedData
             })
             .sum(function (d) {
                 return d.COUNT;

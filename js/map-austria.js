@@ -70,6 +70,7 @@ $('.highcharts-point').click(function (event) {
         land = "kaernten";
     }
     createBubbles(land);
+    $('#selectedCountry').html(land);
     console.log('current State: ', land);
 
 });

@@ -35,6 +35,7 @@ $(document).ready(function () {
         console.log("myRangeAustria");
         year = this.value;
         $('#range-slider-austria').html(year);
+        createBubbles($('#selectedCountry')[0].textContent);
     });
     $('#range-slider-austria').html(year);
 
