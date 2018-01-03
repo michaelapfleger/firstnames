@@ -18,7 +18,7 @@ $(document).ready(function () {
         $('#austrianTab').addClass("active");
         $('#europe').removeClass("active");
 
-        createBubbles(land);
+        // createBubbles(land);
     });
 
     $('#tab-europe').on("click", function () {

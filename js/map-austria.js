@@ -66,6 +66,9 @@ $('.highcharts-point').click(function (event) {
     if (land == "oberösterreich") {
         land = "oberoesterreich";
     }
+    if (land == "kärnten") {
+        land = "kaernten";
+    }
     createBubbles(land);
     console.log('current State: ', land);
 
