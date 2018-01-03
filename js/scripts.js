@@ -83,44 +83,46 @@ $(document).ready(function () {
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');
         var article = $('#article');
-        console.log('clicki');
         console.log('name :', getCurrentName());
         var name = getCurrentName();
-        if (wikipedia.hasClass("closed")) {
-            $.ajax({
-                type: "GET",
-                url: "https://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=" + name + "&callback=?",
-                contentType: "application/json; charset=utf-8",
-                async: false,
-                dataType: "json",
-                success: function (data, textStatus, jqXHR) {
+        if (name) {
+            if (wikipedia.hasClass("closed")) {
+                $.ajax({
+                    type: "GET",
+                    url: "https://de.wikipedia.org/w/api.php?action=parse&format=json&prop=text&page=" + name + "&callback=?",
+                    contentType: "application/json; charset=utf-8",
+                    async: false,
+                    dataType: "json",
+                    success: function (data, textStatus, jqXHR) {
 
-                    wikipedia.addClass("open");
-                    wikipedia.removeClass("closed");
+                        wikipedia.addClass("open");
+                        wikipedia.removeClass("closed");
 
-                    var markup = data.parse.text["*"];
-                    var blurb = $('<div></div>').html(markup);
+                        var markup = data.parse.text["*"];
+                        var blurb = $('<div></div>').html(markup);
 
-                    // remove links as they will not work
-                    blurb.find('a').each(function () {
-                        $(this).replaceWith($(this).html());
-                    });
+                        // remove links as they will not work
+                        blurb.find('a').each(function () {
+                            $(this).replaceWith($(this).html());
+                        });
 
-                    // remove any references
-                    blurb.find('sup').remove();
+                        // remove any references
+                        blurb.find('sup').remove();
 
-                    // remove cite error
-                    blurb.find('.mw-ext-cite-error').remove();
-                    article.html($(blurb).find('p'));
+                        // remove cite error
+                        blurb.find('.mw-ext-cite-error').remove();
+                        article.html($(blurb).find('p'));
 
 
-                },
-                error: function (errorMessage) {}
-            });
-        } else {
-            wikipedia.addClass("closed");
-            wikipedia.removeClass("open");
-            article.html("");
+                    },
+                    error: function (errorMessage) {
+                    }
+                });
+            } else {
+                wikipedia.addClass("closed");
+                wikipedia.removeClass("open");
+                article.html("");
+            }
         }
 
     });

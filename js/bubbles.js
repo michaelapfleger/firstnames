@@ -1,9 +1,9 @@
 var svg = d3.select('svg.bubbles');
-var currentName = 'Tamara';
+var currentName = '';
 
 let getCurrentName = function () {
     return currentName;
-}
+};
 
 
 var width = +svg.attr("width");
