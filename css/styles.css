@@ -163,3 +163,11 @@ div.tooltip {
     opacity: 0;
     color: white;
 }
+
+circle,rect {
+    fill-opacity: 0.8;
+}
+
+circle:hover,rect:hover {
+    fill-opacity: 1;
+}
