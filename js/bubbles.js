@@ -13,12 +13,7 @@ var format = d3.format(",d");
 
 
 var length = 200;
-var blues = d3.scaleLinear().domain([1, length])
-    .interpolate(d3.interpolateHcl)
-    .range([d3.rgb("#052063"), d3.rgb('#7da2ff')]);
-var reds = d3.scaleLinear().domain([1, length])
-    .interpolate(d3.interpolateHcl)
-    .range([d3.rgb("#68074a"), d3.rgb('#ffa4e3')]);
+
 
 var pack = d3.pack()
     .size([width, height])
@@ -43,6 +38,8 @@ function createBubbles(land) {
     var sortedData = [];
     var girlsCounter = 0;
     var boysCounter = 0;
+    var girlsData = [];
+    var boysData = [];
 
     d3.select(".bubbles").selectAll("g").remove();
 
@@ -57,9 +54,11 @@ function createBubbles(land) {
                 if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
                     sortedData.push(d);
                     girlsCounter++;
+                    girlsData.push(d);
                 }
                 if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
                     sortedData.push(d);
+                    boysData.push(d);
                     boysCounter++;
                 }
             } else {
@@ -67,17 +66,26 @@ function createBubbles(land) {
                     amountDisplayed = 8;
                     if (d["YEAR"] == year && d["GENDER"] == "m" && boysCounter < amountDisplayed) {
                         sortedData.push(d);
+                        boysData.push(d);
                         boysCounter++;
                     }
                 } else if (checkboxfemale) {
                     amountDisplayed = 8;
                     if (d["YEAR"] == year && d["GENDER"] == "w" && girlsCounter < amountDisplayed) {
                         sortedData.push(d);
+                        girlsData.push(d);
                         girlsCounter++;
                     }
                 }
             }
         });
+
+        var blues = d3.scaleLinear().domain([1, d3.max(boysData).COUNT])
+            .interpolate(d3.interpolateHcl)
+            .range([d3.rgb("#052063"), d3.rgb('#7da2ff')]);
+        var reds = d3.scaleLinear().domain([1, d3.max(girlsData).COUNT])
+            .interpolate(d3.interpolateHcl)
+            .range([d3.rgb("#68074a"), d3.rgb('#ffa4e3')]);
 
 
         var scaleRadius = d3.scaleLinear()
