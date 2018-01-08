@@ -164,6 +164,19 @@ div.tooltip {
     color: white;
 }
 
+circle,rect {
+    fill-opacity: 1;
+}
+
+#bubbles circle:hover,#bubbles rect:hover {
+    fill-opacity: 0.8;
+    fill: #8c8e97;
+}
+text {
+    fill: black;
+    font-size: 14px;
+    text-anchor: start;
+}
 #europe circle, #europe rect {
     fill-opacity: 0.8;
 }
@@ -171,7 +184,6 @@ div.tooltip {
 #europe circle:hover, #europa rect:hover {
     fill-opacity: 1;
 }
-
 
 
 /*Loading Spinner*/
