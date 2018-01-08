@@ -20,10 +20,19 @@
 
 <body>
 
-    <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+<div id="spinner">
+    <h2>Bitte warte, während wir die Daten für dich laden.</h2>
+    <div class="spinner">
+        <div class="dot1"></div>
+        <div class="dot2"></div>
+    </div>
+</div>
+<div id="content">
 
     <div class="tab">
         <button class="tablinks active" id="tab-europe">EUROPE</button>
@@ -140,14 +149,13 @@
     </div>
 
     <div id="austrianTab" class="tabcontent">
-        <h3>Austria</h3>
         <div class="container">
             <div class="col-md-6">
                 <div id="map-austria"></div>
             </div>
             <div class="col-md-6">
                 <div id="wikipedia" class="infobox closed">
-                    <span id="name-span">Bitte ein Bundesland wählen!</span><i class="material-icons">keyboard_arrow_down</i>
+                    <span id="name-span">Bitte ein Bundesland wählen!</span><i class="material-icons">info_outline</i></i>
                     <div id="article"></div>
                 </div>
                 <div id="bubbles">
@@ -170,20 +178,22 @@
 
         <span id="selectedCountry" hidden></span>
 
+
     </div>
+</div>
 
-    <!-- <div id="slidecontainer">
-        <input type="range" min="1980" max="2017" value="2010" step="1" class="slider" id="myRange">
-        <span id="range-slider">Year</span>
-        
-    </div> -->
+<!-- <div id="slidecontainer">
+    <input type="range" min="1980" max="2017" value="2010" step="1" class="slider" id="myRange">
+    <span id="range-slider">Year</span>
+
+</div> -->
 
 
 
-    <script src="js/barchart.js"></script>
-    <script src="js/map-austria.js"></script>
-    <script src="js/bubbles.js"></script>
-    <script src="js/scripts.js"></script>
+<script src="js/barchart.js"></script>
+<script src="js/map-austria.js"></script>
+<script src="js/bubbles.js"></script>
+<script src="js/scripts.js"></script>
 
 </body>
 

@@ -91,6 +91,8 @@ $(document).ready(function () {
 
     renderBarChart(country, year);
     $('#range-slider-europe').html(year);
+    $('#content').show();
+    $('#spinner').hide();
 
     $('#wikipedia').on('click', function () {
         var wikipedia = $('#wikipedia');

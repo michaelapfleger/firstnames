@@ -34,7 +34,7 @@ function renderBarChart(country, year) {
                 });
                 boysCounter++;
             }
-        })
+        });
         if (jQuery.isEmptyObject(girlsData)) {
             console.log("no data available - barchart");
             $('#' + country + ' .girls~.no-data').html("No data for girls available now!");
@@ -55,6 +55,7 @@ function renderBarChart(country, year) {
                 return d["BIRTHS"];
             })])
             .range([0, 150]);
+
 
         //girls
         var girls = d3.select("#" + country + " .girls")
