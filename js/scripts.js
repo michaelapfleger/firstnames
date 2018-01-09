@@ -42,12 +42,12 @@ $(document).ready(function () {
 
     $('#gender-checkbox-male').change(function () {
         var land =  $('#selectedCountry')[0].textContent;
-        createBubbles(land);
+        updateBubbles(land);
     });
     $('#gender-checkbox-female').change(function () {
         // this.checked
         var land =  $('#selectedCountry')[0].textContent;
-        createBubbles(land);
+        updateBubbles(land);
     });
 
 
