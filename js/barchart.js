@@ -37,21 +37,15 @@ function renderBarChart(country, year) {
         });
         if (jQuery.isEmptyObject(girlsData)) {
             console.log("no data available - barchart");
-            $('#' + country + ' .girls~.no-data').html("No data for girls available now!");
+            $('#' + country + ' .no-data-europe').html("Keine Daten!");
         } else {
-            $('#' + country + ' .girls~.no-data').html("");
+            $('#' + country + ' .no-data-europe').html("");
         }
-        if (jQuery.isEmptyObject(boysData)) {
-            console.log("no data available - barchart");
-            $('#' + country + ' .boys~.no-data').html("No data for boys available now!");
 
-        } else {
-            $('#' + country + ' .boys~.no-data').html("");
-        }
 
         //scale the given data 
         var x = d3.scale.linear()
-            .domain([0, d3.max(girlsData, function (d) {
+            .domain([0, d3.max(boysData, function (d) {
                 return d["BIRTHS"];
             })])
             .range([0, 150]);

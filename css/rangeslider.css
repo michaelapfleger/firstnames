@@ -1,12 +1,12 @@
 #slidecontainer {
-    width: 100%; /* Width of the outside container */
+    width: 90%; /* Width of the outside container */
 }
 
 /* The slider itself */
 .slider {
     -webkit-appearance: none;  /* Override default CSS styles */
     appearance: none;
-    width: 100%; /* Full-width */
+    width: 90%; /* Full-width */
     height: 25px; /* Specified height */
     background: #d3d3d3; /* Grey background */
     outline: none; /* Remove outline */
@@ -38,8 +38,8 @@
 }
 
 #austrianTab .range-slider {
-    margin-top: 700px;
+    margin-top: 150px;
 }
 #europe .range-slider {
-    margin-top: 100px;
+    margin-top: 50px;
 }

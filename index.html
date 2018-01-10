@@ -11,6 +11,8 @@
     <link rel="stylesheet" type="text/css" href="css/barchart.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
 
     <!-- map -->
     <script src="https://code.highcharts.com/maps/highmaps.js"></script>
@@ -34,152 +36,191 @@
 </div>
 <div id="content">
 
-    <div class="tab">
-        <button class="tablinks active" id="tab-europe">EUROPA</button>
-        <button class="tablinks" id="tab-austria">AUSTRIA</button>
-    </div>
+    <!--<ul class="nav nav-pills">-->
+        <!--<li class="active" id="tab-europe"><a href="#">EUROPA</a></li>-->
+        <!--<li  id="tab-austria"><a href="#">AUSTRIA</a></li>-->
+    <!--</ul>-->
+    <div class="container">
+    <section id="fancyTabWidget" class="tabs t-tabs">
+        <ul class="nav nav-tabs fancyTabs" role="tablist">
+            <li class="tab fancyTab active">
+                <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                <a id="tab0" href="#tabBody0" role="tab" aria-controls="tabBody0" aria-selected="true" data-toggle="tab" tabindex="0"><span class="fa fa-desktop"></span></a>
+                <div class="whiteBlock"></div>
+            </li>
 
-    <div id="europe" class="tabcontent active">
-        <div id="carousel">
+            <li class="tab fancyTab">
+                <div class="arrow-down"><div class="arrow-down-inner"></div></div>
+                <a id="tab1" href="#tabBody1" role="tab" aria-controls="tabBody1" aria-selected="true" data-toggle="tab" tabindex="0"><span class="fa fa-firefox"></span></a>
+                <div class="whiteBlock"></div>
+            </li>
+            </ul>
 
-            <div class="item hideLeft" id="france">
-                <h2>France</h2>
-                <img src="images/countries/france.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
+        <div id="myTabContent" class="tab-content fancyTabContent" aria-live="polite">
+            <div class="tab-pane  fade active in" id="tabBody0" role="tabpanel" aria-labelledby="tab0" aria-hidden="false" tabindex="0">
+                <div>
+                    <div class="row">
+                        <div id="europe" class="tabcontent active">
+                            <div id="carousel">
+
+                                <div class="item hideLeft" id="france">
+                                    <h2>France</h2>
+                                    <img src="images/countries/france.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item prevLeftSecond" id="england">
+                                    <h2>England</h2>
+                                    <img src="images/countries/england.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item prev" id="italy">
+                                    <h2>Italy</h2>
+                                    <img src="images/countries/italy.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item selected" id="austria">
+                                    <h2>Austria</h2>
+                                    <img src="images/countries/austria.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                            <span class="no-data"></span>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                            <span class="no-data"></span>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item next" id="spain">
+                                    <h2>Spain</h2>
+                                    <img src="images/countries/spain.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item nextRightSecond" id="switzerland">
+                                    <h2>Switzerland</h2>
+                                    <img src="images/countries/switzerland.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                                <div class="item hideRight" id="belgium">
+                                    <h2>Belgium</h2>
+                                    <img src="images/countries/belgium.png">
+                                    <div class="name-wrapper">
+                                        <div class="girls-left">
+                                            <svg class="girls"></svg>
+
+                                        </div>
+                                        <div class="boys-right">
+                                            <svg class="boys"></svg>
+                                        </div>
+                                        <span class="no-data-europe"></span>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            <div class="range-slider">
+                                <input class="range-slider__range" type="range" value="2010" min="1990" max="2016" id="myRangeEurope">
+                                <span id="range-slider-europe">0</span>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
+            <div class="tab-pane  fade" id="tabBody1" role="tabpanel" aria-labelledby="tab1" aria-hidden="true" tabindex="0">
+                <div class="row">
+                    <div id="austrianTab" class="tabcontent">
+                        <div class="container">
+                            <div class="col-md-6">
+                                <div id="map-austria"></div>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="wikipedia" class="infobox closed">
+                                    <span id="name-span">Bitte ein Bundesland wählen!</span><i id="icon" class="material-icons"></i>
+                                    <div id="article"></div>
+                                </div>
+                                <div id="bubbles">
+                                    <svg class="bubbles" width="500" height="500" font-family="sans-serif" font-size="10" text-anchor="middle"></svg>
+                                </div>
+                                <div id="gender-checkboxes">
+                                    <input type="checkbox" id="gender-checkbox-male" name="gender[]" />
+                                    <label for="gender-checkbox-male">männlich</label>
+                                    <input type="checkbox" id="gender-checkbox-female" name="gender[]" />
+                                    <label for="gender-checkbox-female">weiblich</label>
+                                </div>
+                            </div>
+                        </div>
 
-            <div class="item prevLeftSecond" id="england">
-                <h2>England</h2>
-                <img src="images/countries/england.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
+
+                        <div class="range-slider">
+                            <input class="range-slider__range" type="range" value="2010" min="2005" max="2016" id="myRangeAustria">
+                            <span id="range-slider-austria">0</span>
+                        </div>
+
+                        <span id="selectedCountry" hidden></span>
+
+
                     </div>
                 </div>
             </div>
-
-            <div class="item prev" id="italy">
-                <h2>Italy</h2>
-                <img src="images/countries/italy.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item selected" id="austria">
-                <h2>Austria</h2>
-                <img src="images/countries/austria.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                        <span class="no-data"></span>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
-                        <span class="no-data"></span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item next" id="spain">
-                <h2>Spain</h2>
-                <img src="images/countries/spain.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item nextRightSecond" id="switzerland">
-                <h2>Switzerland</h2>
-                <img src="images/countries/switzerland.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
-                    </div>
-                </div>
-            </div>
-
-            <div class="item hideRight" id="belgium">
-                <h2>Belgium</h2>
-                <img src="images/countries/belgium.png">
-                <div class="name-wrapper">
-                    <div class="girls-left">
-                        <svg class="girls"></svg>
-                    </div>
-                    <div class="boys-right">
-                        <svg class="boys"></svg>
-                    </div>
-                </div>
-            </div>
+        </div>
+        </section>
 
         </div>
 
-        <div class="buttons">
-            <button id="prev"><i class="material-icons">arrow_back</i></button>
-            <button id="next"><i class="material-icons">arrow_forward</i></button>
-        </div>
-
-        <div class="range-slider">
-            <input class="range-slider__range" type="range" value="2010" min="1990" max="2016" id="myRangeEurope">
-            <span id="range-slider-europe">0</span>
-        </div>
-    </div>
-
-    <div id="austrianTab" class="tabcontent">
-        <div class="container">
-            <div class="col-md-6">
-                <div id="map-austria"></div>
-            </div>
-            <div class="col-md-6">
-                <div id="wikipedia" class="infobox closed">
-                    <span id="name-span">Bitte ein Bundesland wählen!</span><i id="icon" class="material-icons"></i>
-                    <div id="article"></div>
-                </div>
-                <div id="bubbles">
-                    <svg class="bubbles" width="500" height="500" font-family="sans-serif" font-size="10" text-anchor="middle"></svg>
-                </div>
-                <div id="gender-checkboxes">
-                    <input type="checkbox" id="gender-checkbox-male" name="gender[]" />
-                    <label for="gender-checkbox-male">männlich</label>
-                    <input type="checkbox" id="gender-checkbox-female" name="gender[]" />
-                    <label for="gender-checkbox-female">weiblich</label>
-                </div>
-            </div>
-        </div>
 
 
-        <div class="range-slider">
-            <input class="range-slider__range" type="range" value="2010" min="2005" max="2016" id="myRangeAustria">
-            <span id="range-slider-austria">0</span>
-        </div>
 
-        <span id="selectedCountry" hidden></span>
-
-
-    </div>
 </div>
 
 <!-- <div id="slidecontainer">
@@ -189,7 +230,7 @@
 </div> -->
 
 
-
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>
 <script src="js/barchart.js"></script>
 <script src="js/map-austria.js"></script>
 <script src="js/bubbles.js"></script>

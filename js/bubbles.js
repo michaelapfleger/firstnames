@@ -23,6 +23,10 @@ var toolTip = d3.select('#bubbles').append('div')
     .attr('class', 'tooltip')
     .style('opacity', 0);
 
+var noData = d3.select('#bubbles').append("div")
+    .attr('class', 'no-data')
+    .attr('opacity', 0);
+
 function ucFirst(string) {
     return string.substring(0, 1).toUpperCase() + string.substring(1).toLowerCase();
 }
@@ -100,77 +104,85 @@ function createBubbles(land) {
             }
         });
 
+        if (sortedData.length > 0) {
 
 
-
-        var root = d3.hierarchy({
-            children: sortedData
-        })
-            .sum(function (d) {
-                return d.COUNT;
+            var root = d3.hierarchy({
+                children: sortedData
             })
-            .each(function (d) {
-                if (name = d.data.NAME) {
-                    d.name = name;
-                    d.package = d.name;
-                    d.gender = d.data.GENDER;
-                    d.year = d.data.YEAR;
-                    console.log(d.name + " " + d.gender);
-                }
-            });
+                .sum(function (d) {
+                    return d.COUNT;
+                })
+                .each(function (d) {
+                    if (name = d.data.NAME) {
+                        d.name = name;
+                        d.package = d.name;
+                        d.gender = d.data.GENDER;
+                        d.year = d.data.YEAR;
+                        console.log(d.name + " " + d.gender);
+                    }
+                });
 
-        var node = svg.selectAll('.node')
-            .data(pack(root).leaves(), (d) => (d.name))
-            .enter()
-            .append('g')
-            // .filter(function(d) { return d.year == year })
-            .attr('class', 'node')
-            .attr('transform', function (d) {
-                return "translate(" + d.x + "," + d.y + ")";
-            });
+            var node = svg.selectAll('.node')
+                .data(pack(root).leaves(), (d) => (d.name))
+                .enter()
+                .append('g')
+                // .filter(function(d) { return d.year == year })
+                .attr('class', 'node')
+                .attr('transform', function (d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
 
 
-        // node.enter().append("circle");
-        node.append('circle')
-            .attr('name', function (d) {
-                return ucFirst(d.name);
+            // node.enter().append("circle");
+            node.append('circle')
+                .attr('name', function (d) {
+                    return ucFirst(d.name);
+                })
+                .attr('gender', function (d) {
+                    return d.gender;
+                })
+                .attr('r', 0)
+                .attr('fill', function (d) {
+                    if (d.gender == 'm') {
+                        return blues(d.value);
+                    } else {
+                        return reds(d.value);
+
+                    }
+                })
+                .transition().duration(2000)
+                .attr('r', function (d) {
+                    return scaleRadius(d.value);
+                });
+
+            node.on('click', function (d) {
+                // toolTip.transition().duration(200).style('opacity', 1);
+                // toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
+                //     .style('left', (d.x) + 'px')
+                //     .style('top', (d.y + d.r) + 'px');
+                currentName = ucFirst(d.name);
+                var gender = d.gender == "w" ? "weiblich" : "männlich";
+                $('#name-span').html(currentName + ", " + gender + ", " + d.value + " Geburten");
             })
-            .attr('gender', function (d) {
-                return d.gender;
-            })
-            .attr('r', 0)
-            .attr('fill', function (d) {
-                if (d.gender == 'm') {
-                    return blues(d.value);
-                } else {
-                    return reds(d.value);
+                .on("mouseover", function (d) {
+                    toolTip.transition().duration(200).style("opacity", .9);
+                    toolTip.html(ucFirst(d.name))
+                        .style("left", (d.x) + "px")
+                        .style("top", (d.y + scaleRadius(d.value) + 10 ) + "px");
+                })
+                .on('mouseout', function (d) {
+                    toolTip.transition().duration(200).style("opacity", 0);
 
-                }
-            })
-            .transition().duration(2000)
-            .attr('r', function (d) {
-                return scaleRadius( d.value);
-            });
+                });
+            noData.transition().duration(200).style("opacity", 0);
+        } else {
+            console.log('nodata');
+            var info ="Keine Daten!";
+            $('.no-data').html(info);
+            noData.transition().duration(200).style("opacity", 1);
+        }
 
-        node.on('click', function (d) {
-            // toolTip.transition().duration(200).style('opacity', 1);
-            // toolTip.html('Name: ' + d.name + "<br/>" + d.gender + ";" + d.value)
-            //     .style('left', (d.x) + 'px')
-            //     .style('top', (d.y + d.r) + 'px');
-            currentName = ucFirst(d.name);
-            var gender = d.gender == "w" ? "weiblich" : "männlich";
-            $('#name-span').html(currentName + ", " + gender + ", " + d.value + " Geburten");
-        })
-            .on("mouseover", function (d) {
-                toolTip.transition().duration(200).style("opacity", .9);
-                toolTip.html(ucFirst(d.name))
-                    .style("left", (d.x) + "px")
-                    .style("top", (d.y + scaleRadius(d.value) +10 )   + "px");
-            })
-            .on('mouseout', function (d) {
-                toolTip.transition().duration(200).style("opacity", 0);
-
-            });
 
     })
 };

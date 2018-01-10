@@ -1,5 +1,5 @@
 body {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif !important;
 }
 .tabcontent .infobox {
     width: 500px;
@@ -46,6 +46,15 @@ circle {
 #gender-checkboxes {
     position: relative;
     top: 72px;
+}
+
+.no-data {
+    position: absolute;
+    top: 150px;
+    /* margin: 0 auto; */
+    width: 500px;
+    text-align: center;
+    font-size: 20px;
 }
 
 /*map*/
@@ -107,7 +116,9 @@ circle {
 /* range slider */
 
 .range-slider {
-    width: 100%;
+    width: 99%;
+    margin: 0 auto;
+
 }
 .range-slider__range {
     -webkit-appearance: none;
@@ -149,6 +160,12 @@ circle {
 }
 .range-slider__range:active::-moz-range-thumb {
     background: #1abc9c;
+}
+#range-slider-europe {
+    float: right;
+}
+#range-slider-austria {
+    float: right;
 }
 ::-moz-range-track {
     background: #d7dcdf;
