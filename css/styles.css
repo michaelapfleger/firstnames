@@ -21,11 +21,13 @@ body {
 }
 .infobox i {
     float: right;
+    margin-top: -2px;
 }
 
 .infobox.open #article {
     overflow-y: scroll;
     height: 350px;
+    margin-top: 10px;
 
 }
 #icon::before {
@@ -273,4 +275,12 @@ text {
           transform: scale(1.0);
           -webkit-transform: scale(1.0);
       }
+}
+
+#gender-checkbox-male + label {
+    margin-right: 10px;
+}
+#gender-checkboxes label {
+    font-weight: 400;
+    font-size: 16px;
 }

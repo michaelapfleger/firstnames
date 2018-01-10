@@ -186,6 +186,8 @@ li.fancyTab.active a {
     display: block;
 }
 
+
+
 @media (max-width: 1200px) {
 
     .fancyTab .fa {
