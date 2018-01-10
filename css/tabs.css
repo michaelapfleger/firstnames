@@ -5,6 +5,11 @@
     margin: 0 auto;
 }
 
+div:focus {
+    outline: none !important;
+    box-shadow: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Source Sans Pro';
     font-weight:700;
@@ -191,6 +196,20 @@ li.fancyTab.active a {
         font-size:22px;
     }
 
+}
+
+.icon-tab-austria, .icon-tab-europe {
+    background-image: url('../images/austria.png');
+    -webkit-background-size:50px;
+    background-size:50px;
+    height: 50px;
+    width: 50px;
+    display: block;
+    background-repeat:no-repeat;
+    margin: 0 auto;
+}
+.icon-tab-europe {
+    background-image: url('../images/europe.png');
 }
 
 
