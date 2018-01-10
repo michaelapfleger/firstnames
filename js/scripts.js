@@ -41,6 +41,7 @@ $(document).ready(function () {
         year = this.value;
         $('#range-slider-austria').html(year);
         createBubbles($('#selectedCountry')[0].textContent);
+        $('#name-span').html("Bitte einen Namen wählen!");
     });
     $('#range-slider-austria').html(year);
 
