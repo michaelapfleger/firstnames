@@ -91,7 +91,8 @@ circle {
 .highcharts-text-outline,
 .highcharts-contextbutton,
 .highcharts-legend,
-.highcharts-tooltip {
+.highcharts-tooltip,
+.highcharts-credits{
     display: none;
 }
 .container {
