@@ -4,6 +4,11 @@ let land = "oberoesterreich";
 
 $(document).ready(function () {
     console.log("ready!");
+
+    $('#austrianTab').on("click", function () {
+        $('#wikipedia').removeClass("open");
+        $('#article').html("");
+    });
     // var slider = document.getElementById("myRange");
     // var output = document.getElementById("demo");
 

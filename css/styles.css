@@ -21,14 +21,17 @@ body {
 .infobox i {
     float: right;
 }
-.infobox.open i {
-    transform: rotate(180deg);
-}
 
-#article {
+.infobox.open #article {
     overflow-y: scroll;
     height: 350px;
 
+}
+#icon::before {
+    content: 'info_outline';
+}
+.infobox.open #icon::before {
+    content: 'cancel';
 }
 /*bubble*/
 
