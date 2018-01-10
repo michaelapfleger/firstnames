@@ -1,365 +1,5 @@
 [
   {
-    "NAME": "Tobias",
-    "COUNT": 1268,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lukas",
-    "COUNT": 1214,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "David",
-    "COUNT": 1141,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jonas",
-    "COUNT": 1093,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Maximilian",
-    "COUNT": 1058,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Alexander",
-    "COUNT": 1001,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Sebastian",
-    "COUNT": 987,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jakob",
-    "COUNT": 958,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Elias",
-    "COUNT": 955,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Paul",
-    "COUNT": 928,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Leon",
-    "COUNT": 918,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Fabian",
-    "COUNT": 898,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Felix",
-    "COUNT": 895,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Julian",
-    "COUNT": 887,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Simon",
-    "COUNT": 860,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Florian",
-    "COUNT": 830,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Moritz",
-    "COUNT": 730,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Raphael",
-    "COUNT": 650,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Daniel",
-    "COUNT": 639,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Luca",
-    "COUNT": 614,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Samuel",
-    "COUNT": 575,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Niklas",
-    "COUNT": 529,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Michael",
-    "COUNT": 527,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Nico",
-    "COUNT": 527,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Matthias",
-    "COUNT": 525,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Dominik",
-    "COUNT": 490,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Noah",
-    "COUNT": 478,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Benjamin",
-    "COUNT": 471,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Philipp",
-    "COUNT": 446,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Marcel",
-    "COUNT": 431,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lorenz",
-    "COUNT": 400,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Johannes",
-    "COUNT": 399,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Valentin",
-    "COUNT": 393,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jan",
-    "COUNT": 350,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Gabriel",
-    "COUNT": 342,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Ben",
-    "COUNT": 334,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Manuel",
-    "COUNT": 324,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Oliver",
-    "COUNT": 320,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Stefan",
-    "COUNT": 291,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Thomas",
-    "COUNT": 283,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Adrian",
-    "COUNT": 270,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Clemens",
-    "COUNT": 265,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Luis",
-    "COUNT": 264,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Matteo",
-    "COUNT": 261,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Andreas",
-    "COUNT": 255,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Leo",
-    "COUNT": 251,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Emil",
-    "COUNT": 244,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Christoph",
-    "COUNT": 241,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jonathan",
-    "COUNT": 231,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Fabio",
-    "COUNT": 226,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Kilian",
-    "COUNT": 224,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Tim",
-    "COUNT": 220,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Konstantin",
-    "COUNT": 217,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Timo",
-    "COUNT": 213,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Martin",
-    "COUNT": 198,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Max",
-    "COUNT": 187,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Markus",
-    "COUNT": 186,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Benedikt",
-    "COUNT": 183,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Anton",
-    "COUNT": 182,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Philip",
-    "COUNT": 180,
-    "GENDER": "m",
-    "YEAR": 2016
-  },
-  {
     "NAME": "Lukas",
     "COUNT": 296,
     "GENDER": "m",
@@ -2563,366 +2203,6 @@
   },
   {
     "NAME": "Anna",
-    "COUNT": 1218,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Sophie",
-    "COUNT": 1039,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lena",
-    "COUNT": 966,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Emma",
-    "COUNT": 847,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Marie",
-    "COUNT": 845,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Leonie",
-    "COUNT": 834,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Laura",
-    "COUNT": 795,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Julia",
-    "COUNT": 762,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Johanna",
-    "COUNT": 713,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Sarah",
-    "COUNT": 700,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lea",
-    "COUNT": 673,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Mia",
-    "COUNT": 647,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Katharina",
-    "COUNT": 638,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Emilia",
-    "COUNT": 607,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Valentina",
-    "COUNT": 586,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Sophia",
-    "COUNT": 564,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Hannah",
-    "COUNT": 560,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lara",
-    "COUNT": 559,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lisa",
-    "COUNT": 531,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Amelie",
-    "COUNT": 499,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Marlene",
-    "COUNT": 477,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Emily",
-    "COUNT": 453,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Hanna",
-    "COUNT": 452,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Elena",
-    "COUNT": 422,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Magdalena",
-    "COUNT": 405,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Luisa",
-    "COUNT": 385,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Alina",
-    "COUNT": 384,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Nina",
-    "COUNT": 371,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Isabella",
-    "COUNT": 365,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jana",
-    "COUNT": 352,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Theresa",
-    "COUNT": 343,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Miriam",
-    "COUNT": 342,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Annika",
-    "COUNT": 303,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Lina",
-    "COUNT": 296,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Selina",
-    "COUNT": 292,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Nora",
-    "COUNT": 276,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Viktoria",
-    "COUNT": 275,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Sara",
-    "COUNT": 268,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Valerie",
-    "COUNT": 263,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Vanessa",
-    "COUNT": 261,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Anja",
-    "COUNT": 260,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Pia",
-    "COUNT": 257,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Jasmin",
-    "COUNT": 256,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Helena",
-    "COUNT": 255,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Franziska",
-    "COUNT": 240,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Victoria",
-    "COUNT": 238,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Elisa",
-    "COUNT": 227,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Larissa",
-    "COUNT": 219,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Clara",
-    "COUNT": 218,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Melanie",
-    "COUNT": 198,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Klara",
-    "COUNT": 195,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Paula",
-    "COUNT": 188,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Ella",
-    "COUNT": 183,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Melissa",
-    "COUNT": 180,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Elisabeth",
-    "COUNT": 177,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Olivia",
-    "COUNT": 174,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Helene",
-    "COUNT": 164,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Caroline",
-    "COUNT": 163,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Antonia",
-    "COUNT": 157,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Maria",
-    "COUNT": 157,
-    "GENDER": "w",
-    "YEAR": 2016
-  },
-  {
-    "NAME": "Anna",
     "COUNT": 367,
     "GENDER": "w",
     "YEAR": 2015
@@ -5110,5 +4390,185 @@
     "COUNT": 24,
     "GENDER": "w",
     "YEAR": 2010
+  },
+  {
+    "NAME": "David",
+    "COUNT": 178,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Tobias",
+    "COUNT": 175,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Jakob",
+    "COUNT": 167,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Lukas",
+    "COUNT": 156,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Paul",
+    "COUNT": 150,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Elias",
+    "COUNT": 149,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Jonas",
+    "COUNT": 147,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Alexander",
+    "COUNT": 143,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Felix",
+    "COUNT": 143,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Fabian",
+    "COUNT": 141,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Leon",
+    "COUNT": 137,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Maximilian",
+    "COUNT": 137,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Sebastian",
+    "COUNT": 125,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Julian",
+    "COUNT": 124,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Simon",
+    "COUNT": 115,
+    "GENDER": "m",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Anna",
+    "COUNT": 210,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Sophie",
+    "COUNT": 163,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Emma",
+    "COUNT": 140,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Marie",
+    "COUNT": 128,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Johanna",
+    "COUNT": 120,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Mia",
+    "COUNT": 117,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Emilia",
+    "COUNT": 116,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Laura",
+    "COUNT": 115,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Lena",
+    "COUNT": 115,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Leonie",
+    "COUNT": 115,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Sophia",
+    "COUNT": 110,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Sarah",
+    "COUNT": 104,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Lea",
+    "COUNT": 101,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Hannah",
+    "COUNT": 100,
+    "GENDER": "w",
+    "YEAR": 2016
+  },
+  {
+    "NAME": "Julia",
+    "COUNT": 98,
+    "GENDER": "w",
+    "YEAR": 2016
   }
 ]

@@ -35,19 +35,19 @@ $(document).ready(function () {
         console.log("myRangeAustria");
         year = this.value;
         $('#range-slider-austria').html(year);
-        updateBubbles($('#selectedCountry')[0].textContent);
+        createBubbles($('#selectedCountry')[0].textContent);
     });
     $('#range-slider-austria').html(year);
 
 
     $('#gender-checkbox-male').change(function () {
         var land =  $('#selectedCountry')[0].textContent;
-        updateBubbles(land);
+        createBubbles(land);
     });
     $('#gender-checkbox-female').change(function () {
         // this.checked
         var land =  $('#selectedCountry')[0].textContent;
-        updateBubbles(land);
+        createBubbles(land);
     });
 
 

@@ -25,6 +25,11 @@ body {
     transform: rotate(180deg);
 }
 
+#article {
+    overflow-y: scroll;
+    height: 350px;
+
+}
 /*bubble*/
 
 circle {
@@ -68,10 +73,10 @@ circle {
     -ms-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
-    fill: #00bda8;
+    fill: grey;
 }
 .mapActive {
-    fill: #00bda8;
+    fill: grey;
 }
 #map-austria svg.highcharts-root {
     font-family: 'Titillium Web', sans-serif !important;
@@ -168,9 +173,11 @@ circle,rect {
     fill-opacity: 1;
 }
 
-#bubbles circle:hover,#bubbles rect:hover {
+#bubbles circle {
     fill-opacity: 0.8;
-    fill: #8c8e97;
+}
+#bubbles circle:hover,#bubbles rect:hover {
+    fill-opacity: 1;
 }
 text {
     fill: black;

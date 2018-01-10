@@ -71,6 +71,7 @@ $('.highcharts-point').click(function (event) {
     createBubbles(land);
     $('#selectedCountry').html(land);
     console.log('current State: ', land);
+    // d3.select(".bubbles").selectAll("g").remove();
 
     $('#gender-checkbox-male').prop('checked', true);
     $('#gender-checkbox-female').prop('checked', true);
